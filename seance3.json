@@ -1,0 +1,951 @@
+{
+"titre_cours": "La déclinaison du nom et de l'adjectif",
+"source": "ACRL_Akkadien I_Séance 3_DéclinaisonNomAdjectif.pdf",
+"sections": [
+{
+"titre": "Rappels",
+"sections": [
+{
+"titre": "Rappels sur la racine et la morphologie de l'akkadien",
+"fiches": [
+{
+"titre": "Racines consonantiques, paradigme PRS et habillage vocalique/préfixal",
+"pages_source": "1",
+"notions": [
+{
+"titre": "Structure des racines en akkadien",
+"contenu": "L'akkadien est une langue flexionnelle qui distingue les lexèmes (porteurs du sens lexical, appelés « racines ») des morphèmes grammaticaux. Les racines sont le plus souvent triconsonnantiques (notées C1C2C3, comme ŠKN dans išakkan, iškun, šakānum), parfois biconsonnantiques avec une voyelle longue (TūR, BūR...), et dans de très rares cas quadriconsonnantiques."
+},
+{
+"titre": "Constitution du nom et de l'adjectif",
+"contenu": "Le nom et l'adjectif sont formés à partir d'une base consonantique (la racine qui transmet le sens) à laquelle on ajoute une terminaison ou suffixe exprimant le genre, le nombre et le cas (le rôle grammatical dans la phrase)."
+},
+{
+"titre": "La racine paradigmatique PRS",
+"contenu": "Pour expliquer les formes verbales et substantives, on utilise la racine-type triconsonnantique PRS (« trancher, couper »), car ses trois consonnes sont stables et ne subissent ni transformations ni assimilations."
+},
+{
+"titre": "Habillage du radical et préfixes",
+"contenu": "Le radical consonantique peut être habillé par des voyelles ou des consonnes pour préciser son sens. L'infinitif d'un verbe se forme toujours à partir de la racine en insérant un a bref entre C1 et C2, un ā long entre C2 et C3, et la terminaison -um. Certains préfixes ou infixes précisent le domaine sémantique (par exemple, un š- évoque l'idée de « faire faire quelque chose » ; le -t- crée une action qui vient d'être faite ou le féminin selon le cas). L'insertion de ā et i entre les consonnes (schème PāRiS+um) crée un substantif désignant celui qui fait l'action."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "parāsum",
+"traduction": "couper, trancher",
+"categorie": "verbe (infinitif)",
+"remarque": "Racine PRS"
+},
+{
+"akkadien": "",
+"translitteration": "kaṣārum",
+"traduction": "attacher, lier",
+"categorie": "verbe (infinitif)",
+"remarque": "Racine KṢR"
+},
+{
+"akkadien": "",
+"translitteration": "pārisum",
+"traduction": "celui qui coupe",
+"categorie": "substantif",
+"remarque": "Schème PāRiS+um"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "išakkan, iškun, šakānum",
+"traduction": "",
+"explication": "Exemples de formes issues de la racine triconsonnantique ŠKN."
+},
+{
+"akkadien": "",
+"translitteration": "parāsum",
+"traduction": "couper",
+"explication": "Formation de l'infinitif à partir de PRS : a bref entre C1 et C2, ā long entre C2 et C3, terminaison -um."
+},
+{
+"akkadien": "",
+"translitteration": "kaṣārum",
+"traduction": "attacher, lier",
+"explication": "Formation de l'infinitif à partir de KṢR."
+},
+{
+"akkadien": "",
+"translitteration": "pārisum",
+"traduction": "celui qui coupe",
+"explication": "Formation d'un nom d'agent par insertion de ā et i entre les consonnes de PRS."
+}
+],
+"remarques": [
+"Les consonnes de PRS ne subissent aucune assimilation, ce qui en fait le modèle de référence pour tout le cours."
+],
+"a_retenir": [
+"Racines généralement triconsonnantiques (C1C2C3), modélisées par PRS.",
+"Nom et adjectif = base consonantique + suffixe indiquant genre, nombre et cas.",
+"Infinitif = C1aC2āC3um ; nom d'agent = C1āC2iC3um."
+]
+}
+]
+}
+]
+},
+{
+"titre": "I. Le substantif",
+"sections": [
+{
+"titre": "L'article et le genre du substantif",
+"fiches": [
+{
+"titre": "Absence d'article, formation du féminin et suffixe abstrait -ūtum",
+"pages_source": "1-2",
+"notions": [
+{
+"titre": "Absence d'article en paléo-babylonien",
+"contenu": "L'akkadien paléo-babylonien ne possède ni article défini ni article indéfini. Seul le contexte permet de déterminer si un nom doit être traduit par un défini (« le/la ») ou un indéfini (« un/une »)."
+},
+{
+"titre": "Les deux genres : masculin et féminin",
+"contenu": "L'akkadien distingue le masculin et le féminin. Le masculin n'a pas de marqueur spécifique. Les noms féminins singuliers prennent généralement un -t ou un -at inséré entre la base (obtenue en retirant la désinence casuelle, par ex. -um) et la désinence casuelle. Par harmonisation vocalique, l'infixe -at peut se colorer en -et."
+},
+{
+"titre": "Noms féminins sans marqueur et noms à genre variable",
+"contenu": "Certains substantifs sont féminins sans présenter de -t ou -at : c'est notamment le cas des parties du corps (comme dans d'autres langues sémitiques). Il existe également des noms sans -t/-at dont le genre est variable."
+},
+{
+"titre": "Formation des noms abstraits (-ūtum)",
+"contenu": "Le suffixe -ūtum ajouté à la base permet de former des substantifs abstraits."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "šarrum",
+"traduction": "le roi / un roi",
+"categorie": "substantif masculin",
+"remarque": "Base *šarr-"
+},
+{
+"akkadien": "",
+"translitteration": "šarratum",
+"traduction": "reine",
+"categorie": "substantif féminin",
+"remarque": "Formé avec -at (šarr-at-um)"
+},
+{
+"akkadien": "",
+"translitteration": "ilum",
+"traduction": "dieu",
+"categorie": "substantif masculin",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "iltum",
+"traduction": "déesse",
+"categorie": "substantif féminin",
+"remarque": "Formé avec -t"
+},
+{
+"akkadien": "",
+"translitteration": "mārum",
+"traduction": "fils",
+"categorie": "substantif masculin",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "mārtum",
+"traduction": "fille",
+"categorie": "substantif féminin",
+"remarque": "Formé avec -t"
+},
+{
+"akkadien": "",
+"translitteration": "arratum / erretum",
+"traduction": "malédiction",
+"categorie": "substantif féminin",
+"remarque": "Coloration de -at en -et par harmonisation vocalique"
+},
+{
+"akkadien": "",
+"translitteration": "ummum",
+"traduction": "mère",
+"categorie": "substantif féminin",
+"remarque": "Féminin sans marqueur -t/-at"
+},
+{
+"akkadien": "",
+"translitteration": "nārum",
+"traduction": "fleuve",
+"categorie": "substantif féminin",
+"remarque": "Féminin sans marqueur -t/-at"
+},
+{
+"akkadien": "",
+"translitteration": "īnum",
+"traduction": "œil",
+"categorie": "substantif féminin",
+"remarque": "Féminin sans marqueur -t/-at (partie du corps)"
+},
+{
+"akkadien": "",
+"translitteration": "šēpum",
+"traduction": "pied",
+"categorie": "substantif féminin",
+"remarque": "Féminin sans marqueur -t/-at (partie du corps)"
+},
+{
+"akkadien": "",
+"translitteration": "uznum",
+"traduction": "l'oreille",
+"categorie": "substantif féminin",
+"remarque": "Féminin sans marqueur -t/-at (partie du corps)"
+},
+{
+"akkadien": "",
+"translitteration": "liptum",
+"traduction": "ouvrage fait main",
+"categorie": "substantif masculin",
+"remarque": "Issu de la racine LPT (infinitif lapātum « toucher ») : le t appartient à la racine"
+},
+{
+"akkadien": "",
+"translitteration": "šarrūtum",
+"traduction": "la royauté",
+"categorie": "substantif",
+"remarque": "Formé avec le suffixe abstrait -ūtum"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "šarrum",
+"traduction": "le roi / un roi",
+"explication": "Illustre l'absence d'article en paléo-babylonien."
+},
+{
+"akkadien": "",
+"translitteration": "šarr-at-um = šarratum",
+"traduction": "la reine",
+"explication": "Insertion de -at entre la base *šarr- et la désinence nominative -um."
+},
+{
+"akkadien": "",
+"translitteration": "liptum",
+"traduction": "ouvrage fait main",
+"explication": "Substantif masculin issu de LPT (lapātum « toucher ») où le -t est une consonne radicale et non la marque du féminin."
+}
+],
+"remarques": [
+"Attention à ne pas confondre le -t du féminin avec un -t faisant partie des consonnes de la racine (ex. : liptum est masculin car issu de LPT)."
+],
+"a_retenir": [
+"Pas d'article en akkadien : traduction définie ou indéfinie selon le contexte.",
+"Masculin sans marqueur ; féminin marqué par -t, -at (ou -et par harmonisation vocalique) avant la désinence.",
+"Les parties du corps sont féminines sans marqueur -t/-at.",
+"Suffixe -ūtum = nom abstrait (šarrūtum « la royauté »)."
+]
+}
+]
+},
+{
+"titre": "Les classes sémantiques de formation des substantifs",
+"fiches": [
+{
+"titre": "Schèmes nominaux PiRS-, PuRS- et PaRRāS-",
+"pages_source": "2-3",
+"notions": [
+{
+"titre": "Les formes en PiRS- (féminin PiRiSt-)",
+"contenu": "Elles désignent le produit ou le résultat de l'action exprimée par la racine verbale."
+},
+{
+"titre": "Les formes en PuRS- (féminin PuRuSt-)",
+"contenu": "Elles déterminent des substantifs ayant un sens abstrait."
+},
+{
+"titre": "Les formes en PaRRāS- (féminin PaRRāSt-, pluriel féminin PaRRāSāt-)",
+"contenu": "Elles servent à former des noms de professions."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "šiprum",
+"traduction": "le message",
+"categorie": "substantif (PiRS-)",
+"remarque": "De ŠPR, inf. šapārum « écrire »"
+},
+{
+"akkadien": "",
+"translitteration": "šiqlum",
+"traduction": "le poids",
+"categorie": "substantif (PiRS-)",
+"remarque": "De ŠQL, inf. šaqālum « peser »"
+},
+{
+"akkadien": "",
+"translitteration": "kiṣrum",
+"traduction": "le nœud",
+"categorie": "substantif (PiRS-)",
+"remarque": "De KṢR, inf. kaṣārum « lier »"
+},
+{
+"akkadien": "",
+"translitteration": "širiktum / šeriktum",
+"traduction": "la dot",
+"categorie": "substantif féminin (PiRiSt-)",
+"remarque": "De ŠRK, inf. šarākum « offrir » (coloration de i en e due au R)"
+},
+{
+"akkadien": "",
+"translitteration": "ṣibittum",
+"traduction": "la prison",
+"categorie": "substantif féminin (PiRiSt-)",
+"remarque": "De ṢBT, inf. ṣabātum « prendre, saisir »"
+},
+{
+"akkadien": "",
+"translitteration": "nidittum",
+"traduction": "la dot",
+"categorie": "substantif féminin (PiRiSt-)",
+"remarque": "De NDN, inf. nadānum « donner » (*nidintum > nidittum par assimilation du n devant t)"
+},
+{
+"akkadien": "",
+"translitteration": "šulmum",
+"traduction": "la santé",
+"categorie": "substantif (PuRS-)",
+"remarque": "De ŠLM, inf. šalāmum « être en bonne santé »"
+},
+{
+"akkadien": "",
+"translitteration": "murṣum",
+"traduction": "la maladie",
+"categorie": "substantif (PuRS-)",
+"remarque": "De MRṢ, inf. marāṣum « être malade »"
+},
+{
+"akkadien": "",
+"translitteration": "nukurtum",
+"traduction": "la guerre",
+"categorie": "substantif féminin (PuRuSt-)",
+"remarque": "De NKR, inf. nakārum « être hostile »"
+},
+{
+"akkadien": "",
+"translitteration": "nappāhum",
+"traduction": "le forgeron",
+"categorie": "substantif (PaRRāS-)",
+"remarque": "De NPH, inf. napāhum « souffler »"
+},
+{
+"akkadien": "",
+"translitteration": "dayyānum",
+"traduction": "le juge",
+"categorie": "substantif (PaRRāS-)",
+"remarque": "De DYN, inf. diānum « juger »"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "nidittum",
+"traduction": "la dot",
+"explication": "Forme attendue *nidintum (schème PiRiSt- sur NDN), mais le n devant le t s'assimile à ce dernier."
+}
+],
+"remarques": [
+"Dans širiktum/šeriktum, la présence du R peut entraîner une coloration de la voyelle i en e.",
+"Dans nidittum, le n s'assimile au t du féminin (*nidintum > nidittum)."
+],
+"a_retenir": [
+"PiRS- (fém. PiRiSt-) = produit de l'action (ex. : šiprum « le message »).",
+"PuRS- (fém. PuRuSt-) = sens abstrait (ex. : šulmum « la santé »).",
+"PaRRāS- (fém. PaRRāSt-) = nom de profession (ex. : dayyānum « le juge »)."
+]
+}
+]
+},
+{
+"titre": "Le nombre (singulier, pluriel, duel)",
+"fiches": [
+{
+"titre": "Catégories de nombre, emploi du duel et particularités du pluriel",
+"pages_source": "3-4",
+"notions": [
+{
+"titre": "Les trois nombres et la répartition des cas",
+"contenu": "Le nombre se divise en trois catégories : le singulier, le pluriel et le duel. Le singulier distingue trois cas (nominatif, génitif, accusatif), tandis que le pluriel et le duel n'en distinguent que deux : le nominatif et le cas oblique. Le cas oblique regroupe le génitif et l'accusatif sous les mêmes désinences, bien qu'ils conservent des fonctions syntaxiques distinctes dans la phrase."
+},
+{
+"titre": "Le duel : morphologie et emplois",
+"contenu": "Le duel est caractérisé par la « nunation » (finales en -n : -ān au nominatif et -īn au cas oblique, avec allongement de la voyelle). Il indique que deux personnes ou deux choses sont impliquées conjointement. Son emploi en paléo-babylonien est résiduel et concerne surtout : 1) les parties du corps ou éléments allant naturellement par paire (là où le français dit « mes yeux », l'akkadien dit « mes deux yeux ») ; 2) les noms dont le singulier et le pluriel ne diffèrent pas sur le plan du sens."
+},
+{
+"titre": "Accord du duel en paléo-babylonien",
+"contenu": "En paléo-babylonien, les adjectifs, les verbes et les pronoms n'ont pas de forme duel : un nom au duel s'accorde donc au pluriel. Comme la majorité des noms employés au duel sont féminins au singulier, ils sont le plus souvent accompagnés d'adjectifs ou de verbes au pluriel féminin."
+},
+{
+"titre": "Particularités de formation du pluriel",
+"contenu": "1) Changement de genre au pluriel : certains noms masculins au singulier deviennent féminins au pluriel (ex. dīnum > dīnātum) ; d'autres admettent les deux terminaisons pluriel, masculine (-ū) ou féminine (-ātum). 2) Pluralia tantum : certains termes n'existent qu'au pluriel, notamment pour les étendues incommensurables (mû « l'eau », šamû « les cieux »). 3) Collectifs : des termes désignant des groupes peuvent recevoir des marqueurs singuliers ou pluriels. 4) Gémination : certains substantifs forment leur pluriel par redoublement (gémination) d'une consonne (ex. ahum > ahhū)."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "īnum / īnān",
+"traduction": "l'œil / les deux yeux",
+"categorie": "substantif féminin (sg. / duel)",
+"remarque": "Partie du corps allant par paire"
+},
+{
+"akkadien": "",
+"translitteration": "išdum / išdān",
+"traduction": "fondation / fondations",
+"categorie": "substantif (sg. / duel)",
+"remarque": "Emploi du duel sans différence de sens entre sg. et pl."
+},
+{
+"akkadien": "",
+"translitteration": "dīnum / dīnātum",
+"traduction": "verdict, décision judiciaire",
+"categorie": "substantif (masc. sg. / fém. pl. nom.)",
+"remarque": "Masculin au singulier, féminin au pluriel"
+},
+{
+"akkadien": "",
+"translitteration": "kunukkum / kunukkū / kunukkātum",
+"traduction": "sceau",
+"categorie": "substantif (masc. sg. / masc. pl. / fém. pl.)",
+"remarque": "Double pluriel possible"
+},
+{
+"akkadien": "",
+"translitteration": "našpakum / našpakū / našpakātum",
+"traduction": "grenier",
+"categorie": "substantif (masc. sg. / masc. pl. / fém. pl.)",
+"remarque": "Double pluriel possible"
+},
+{
+"akkadien": "",
+"translitteration": "abnum / abnū / abnātum",
+"traduction": "pierre",
+"categorie": "substantif (masc. sg. / masc. pl. / fém. pl.)",
+"remarque": "Double pluriel possible"
+},
+{
+"akkadien": "",
+"translitteration": "mû",
+"traduction": "l'eau",
+"categorie": "substantif (pluriel uniquement)",
+"remarque": "Étendue incommensurable"
+},
+{
+"akkadien": "",
+"translitteration": "šamû",
+"traduction": "les cieux",
+"categorie": "substantif (pluriel uniquement)",
+"remarque": "Étendue incommensurable"
+},
+{
+"akkadien": "",
+"translitteration": "ahum / ahhū",
+"traduction": "frère / les frères",
+"categorie": "substantif masculin (sg. / pl.)",
+"remarque": "Pluriel par gémination de consonne"
+},
+{
+"akkadien": "",
+"translitteration": "abum / abbū",
+"traduction": "père / les pères",
+"categorie": "substantif masculin (sg. / pl.)",
+"remarque": "Pluriel par gémination de consonne"
+},
+{
+"akkadien": "",
+"translitteration": "iṣum / iṣṣū",
+"traduction": "arbre / arbres",
+"categorie": "substantif masculin (sg. / pl.)",
+"remarque": "Pluriel par gémination de consonne"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "īnum : īnān",
+"traduction": "l'œil : les deux yeux",
+"explication": "Formation du duel nominatif par ajout de -ān avec nunation."
+},
+{
+"akkadien": "",
+"translitteration": "ahum → ahhū ; abum → abbū ; iṣum → iṣṣū",
+"traduction": "frère → les frères ; père → les pères ; arbre → arbres",
+"explication": "Formation du pluriel par redoublement (gémination) de la consonne."
+}
+],
+"remarques": [
+"Les adjectifs, verbes et pronoms n'ayant pas de duel en paléo-babylonien, le duel commande un accord au pluriel (généralement pluriel féminin)."
+],
+"a_retenir": [
+"Singulier : 3 cas (nom., gén., acc.) ; Pluriel et Duel : 2 cas (nom., cas oblique = gén. + acc.).",
+"Duel caractérisé par la nunation (-ān / -īn) : utilisé pour les paires naturelles (parties du corps) et s'accorde au pluriel.",
+"Pluriels irréguliers : changement de genre (dīnum > dīnātum), double pluriel (-ū / -ātum), pluriels seuls (mû, šamû) ou gémination (ahhū, abbū, iṣṣū)."
+]
+}
+]
+},
+{
+"titre": "Les cas et la déclinaison du substantif",
+"fiches": [
+{
+"titre": "Fonctions des cas et tableau de déclinaison du substantif",
+"pages_source": "4-5",
+"notions": [
+{
+"titre": "Les trois cas et leurs fonctions",
+"contenu": "1) Le nominatif (nom.) : indique le sujet de la phrase ou le prédicat nominal de certaines phrases nominales (sans verbe). 2) L'accusatif (acc.) : indique le complément d'objet direct du verbe ; il peut aussi avoir une valeur adverbiale de temps et/ou de lieu. 3) Le génitif (gén.) : indique la possession (dans la construction de l'état construit) et s'emploie après certaines prépositions (ana « vers », ištu « depuis », ina « dans, parmi », itti « avec »)."
+},
+{
+"titre": "Déclinaison unique et désinences casuelles",
+"contenu": "Contrairement au latin ou au grec ancien, l'akkadien ne possède qu'une seule déclinaison, réalisée en suffixant des désinences spécifiques au radical.\n\nTableau des désinences casuelles :\n- Nominatif singulier : masc. -um | fém. -(a)tum\n- Accusatif singulier : masc. -am | fém. -(a)tam\n- Génitif singulier : masc. -im | fém. -(a)tim\n- Nominatif pluriel : masc. -ū | fém. -ātum\n- Cas oblique pluriel : masc. -ī | fém. -ātim\n- Duel nominatif : masc. -ān | fém. -atān\n- Duel oblique : masc. -īn | fém. -atīn"
+},
+{
+"titre": "Paradigmes complets de déclinaison (šarrum, šarratum, kalbum, kalbatum, mārtum)",
+"contenu": "Singulier :\n- Nominatif : šarrum (masc. « roi ») | šarratum (fém. « reine ») | kalbum (masc. « chien ») | kalbatum (fém. « chienne ») | mārtum (fém. « fille »)\n- Accusatif : šarram | šarratam | kalbam | kalbatam | mārtam\n- Génitif : šarrim | šarratim | kalbim | kalbatim | mārtim\n\nPluriel :\n- Nominatif : šarrū | šarrātum | kalbū | kalbātum | mārātum\n- Oblique : šarrī | šarrātim | kalbī | kalbātim | mārātim\n\nDuel :\n- Nominatif : šarrān | šarratān | kalbān | kalbatān | māratān\n- Oblique : šarrīn | šarratīn | kalbīn | kalbatīn | māratīn"
+},
+{
+"titre": "Mimation et allongement vocalique au pluriel",
+"contenu": "Le -m final des désinences du singulier (ainsi que du pluriel féminin) est appelé « mimation ». Bien présent en paléo-babylonien, il disparaîtra au fil des siècles. Au pluriel, le masculin se caractérise par les voyelles longues -ū (nominatif) et -ī (oblique) ; au féminin, l'allongement porte sur le a du marqueur féminin -at suivi de -um (nom. pl. -ātum) ou de -im (obl. pl. -ātim)."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "urram u mūšam",
+"traduction": "le jour et la nuit",
+"categorie": "expression adverbiale",
+"remarque": "Accusatif à valeur adverbiale temporelle"
+},
+{
+"akkadien": "",
+"translitteration": "ana",
+"traduction": "vers",
+"categorie": "préposition",
+"remarque": "Suivie du génitif"
+},
+{
+"akkadien": "",
+"translitteration": "ištu",
+"traduction": "depuis",
+"categorie": "préposition",
+"remarque": "Suivie du génitif"
+},
+{
+"akkadien": "",
+"translitteration": "ina",
+"traduction": "dans, parmi",
+"categorie": "préposition",
+"remarque": "Suivie du génitif"
+},
+{
+"akkadien": "",
+"translitteration": "itti",
+"traduction": "avec",
+"categorie": "préposition",
+"remarque": "Suivie du génitif"
+},
+{
+"akkadien": "",
+"translitteration": "bītum",
+"traduction": "maison",
+"categorie": "substantif",
+"remarque": "Apparaît au génitif dans ana bītim"
+},
+{
+"akkadien": "",
+"translitteration": "kalbum",
+"traduction": "chien",
+"categorie": "substantif masculin",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "kalbatum",
+"traduction": "chienne",
+"categorie": "substantif féminin",
+"remarque": ""
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "urram u mūšam",
+"traduction": "le jour et la nuit",
+"explication": "Emploi adverbial de l'accusatif (-am) pour exprimer le temps."
+},
+{
+"akkadien": "",
+"translitteration": "ana bītim",
+"traduction": "vers la maison",
+"explication": "Préposition ana suivie du génitif singulier (-im)."
+},
+{
+"akkadien": "",
+"translitteration": "ina šarrī",
+"traduction": "parmi les rois",
+"explication": "Préposition ina suivie du cas oblique pluriel (-ī) en fonction de génitif."
+}
+],
+"remarques": [
+"Remarquer que mārtum (avec -t au singulier) retrouve le -a- au pluriel (mārātum / mārātim) et au duel (māratān / māratīn).",
+"Le document orthographie kalbu dans l'introduction du tableau (p. 4) et kalbum dans le tableau lui-même."
+],
+"a_retenir": [
+"Nominatif = sujet / prédicat ; Accusatif = COD / adverbe (temps, lieu) ; Génitif = possession (état construit) / après préposition (ana, ištu, ina, itti).",
+"Désinences singulier : masc. -um / -am / -im ; fém. -(a)tum / -(a)tam / -(a)tim.",
+"Désinences pluriel : masc. -ū / -ī ; fém. -ātum / -ātim.",
+"Le -m final au singulier s'appelle la mimation (conservée en paléo-babylonien)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "II. L'adjectif",
+"sections": [
+{
+"titre": "Flexion et accord de l'adjectif",
+"fiches": [
+{
+"titre": "Déclinaison de l'adjectif (dannum) et règles d'accord de l'épithète",
+"pages_source": "5-6",
+"notions": [
+{
+"titre": "Morphologie et terminaisons de l'adjectif",
+"contenu": "Comme le nom, l'adjectif se compose d'une base et de suffixes variant selon le genre, le nombre et le cas. Il n'a cependant pas de duel (on utilise le pluriel lorsque le substantif est au duel). Les terminaisons sont :\n- Singulier masculin : -um (nom.), -im (gén.), -am (acc.)\n- Pluriel masculin : -ūtum (nom.), -ūtim (obl.)\n- Singulier féminin : -a/etum (nom.), -a/etim (gén.), -a/etam (acc.)\n- Pluriel féminin : -ā/ētum (nom.), -ā/ētim (obl.)"
+},
+{
+"titre": "Tableau de déclinaison de l'adjectif dannum (« fort »)",
+"contenu": "Singulier :\n- Nominatif : masc. dannum (« fort ») | fém. dannatum (« forte »)\n- Génitif : masc. dannim | fém. dannatim\n- Accusatif : masc. dannam | fém. dannatam\n\nPluriel :\n- Nominatif : masc. dannūtum | fém. dannātum\n- Oblique : masc. dannūtim | fém. dannātim"
+},
+{
+"titre": "Place et accord de l'adjectif épithète",
+"contenu": "En fonction d'épithète, l'adjectif qualificatif se place après le substantif qu'il qualifie et s'accorde avec lui en genre, en nombre et en cas. Lorsqu'un adjectif qualifie deux substantifs de genres différents, il se met le plus souvent au masculin pluriel."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "dannum / dannatum",
+"traduction": "fort / forte",
+"categorie": "adjectif",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "damqūtum",
+"traduction": "bons",
+"categorie": "adjectif (masculin pluriel)",
+"remarque": "De damqum « bon »"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "šarrum dannum",
+"traduction": "le roi fort",
+"explication": "Accord au nominatif singulier masculin (-um / -um), adjectif postposé."
+},
+{
+"akkadien": "",
+"translitteration": "šarrim dannim",
+"traduction": "du roi fort",
+"explication": "Accord au génitif singulier masculin (-im / -im)."
+},
+{
+"akkadien": "",
+"translitteration": "ana šarrim dannim",
+"traduction": "au/pour le roi fort",
+"explication": "Préposition ana + groupe nominal au génitif singulier masculin."
+},
+{
+"akkadien": "",
+"translitteration": "šarrū dannūtum",
+"traduction": "des/les rois forts",
+"explication": "Accord au nominatif pluriel masculin : -ū pour le nom, -ūtum pour l'adjectif."
+},
+{
+"akkadien": "",
+"translitteration": "ina šarrī dannūtim",
+"traduction": "parmi les rois forts",
+"explication": "Préposition ina + cas oblique pluriel masculin : -ī pour le nom, -ūtim pour l'adjectif."
+},
+{
+"akkadien": "",
+"translitteration": "šarratum dannatum",
+"traduction": "la reine forte",
+"explication": "Accord au nominatif singulier féminin (-atum / -atum)."
+},
+{
+"akkadien": "",
+"translitteration": "šarrātum dannātum",
+"traduction": "des/les reines fortes",
+"explication": "Accord au nominatif pluriel féminin (-ātum / -ātum)."
+},
+{
+"akkadien": "",
+"translitteration": "abum u ummum damqūtum",
+"traduction": "le père et la mère bons",
+"explication": "Qualification de deux substantifs de genres différents (masculin + féminin) : accord au masculin pluriel (-ūtum)."
+}
+],
+"remarques": [
+"Attention à la différence entre le nom masculin pluriel (-ū / -ī) et l'adjectif masculin pluriel (-ūtum / -ūtim)."
+],
+"a_retenir": [
+"Terminaisons de l'adjectif au pluriel masculin : -ūtum (nom.) / -ūtim (obl.).",
+"L'adjectif n'a pas de duel (il prend le pluriel).",
+"L'adjectif épithète suit le nom et s'accorde en genre, nombre et cas ; avec deux noms de genres différents, il prend le masculin pluriel."
+]
+}
+]
+}
+]
+},
+{
+"titre": "III. Variations",
+"sections": [
+{
+"titre": "Contractions vocaliques et élision",
+"fiches": [
+{
+"titre": "Racines à 3e consonne faible (contraction) et chute de voyelle brève (damqum)",
+"pages_source": "6-7",
+"notions": [
+{
+"titre": "Contraction dans les racines à troisième consonne faible",
+"contenu": "Lorsque la troisième consonne d'une racine est faible ou disparue (notée '), la base se termine par une voyelle. Celle-ci se contracte avec la voyelle de la désinence, produisant une voyelle longue notée par un accent circonflexe (^). Ce phénomène concerne les substantifs et les adjectifs (dans les dictionnaires, ces mots se repèrent à l'accent circonflexe sur leur dernière voyelle). Exceptions sans contraction : pour l'adjectif à l'accusatif singulier masculin (rabī-am > rabiam) et au pluriel féminin nominatif et oblique (rabī-ātum > rabiātum, rabī-ātim > rabiātim)."
+},
+{
+"titre": "Tableau de déclinaison des thèmes à voyelle finale (šadûm, rubûm, rabûm, rabītum)",
+"contenu": "Singulier :\n- Nominatif : šadū-um > šadûm (subs. « montagne ») | rubā-um > rubûm (subs. « prince ») | rabī-um > rabûm (adj. masc. « grand ») | rabī-t-um > rabītum (adj. fém. « grande »)\n- Génitif : šadū-im > šadîm | rubā-im > rubêm | rabī-im > rabîm | rabī-t-im > rabītim\n- Accusatif : šadū-am > šadâm | rubā-am > rubâm | rabī-am > rabī'am (ou rabiam) | rabī-t-am > rabītam\n\nPluriel :\n- Nominatif : šadū-ū > šadû | rubā-ū > rubû | rabī-ūtum > rabûtum | rabī-ātum > rabī'ātum (ou rabiātum)\n- Oblique : šadū-ī > šadî | rubā-ī > rubê | rabī-ūtim > rabûtim | rabī-ātim > rabī'ātim (ou rabiātim)\n\nDuel :\n- Nominatif : šadū-ān > šadân | rubā-ān > rubân\n- Oblique : šadū-īn > šadîn | rubā-īn > rubên"
+},
+{
+"titre": "Élision de la deuxième voyelle brève en syllabe ouverte (cas de damqum)",
+"contenu": "Quand deux voyelles brèves se suivent en syllabe ouverte, la deuxième est en principe élidée. La voyelle n'est donc préservée qu'en syllabe fermée (lorsqu'elle est suivie de deux consonnes, comme au féminin singulier). Ainsi, la forme théorique *damiqum perd son -i- lorsque la syllabe est ouverte (damqum), mais le conserve au féminin singulier devant -t- (damiqtum).\n\nDéclinaison de *damiqum (« bon, bonne ») :\n- Singulier masculin : damqum (nom.), damqim (gén.), damqam (acc.)\n- Singulier féminin : damiqtum (nom.), damiqtim (gén.), damiqtam (acc.)\n- Pluriel masculin : damqūtum (nom.), damqūtim (obl.)\n- Pluriel féminin : damqātum (nom.), damqātim (obl.)"
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "šadûm",
+"traduction": "montagne",
+"categorie": "substantif",
+"remarque": "Base šadū- (racine ŠD')"
+},
+{
+"akkadien": "",
+"translitteration": "rubûm",
+"traduction": "prince",
+"categorie": "substantif",
+"remarque": "Base rubā-"
+},
+{
+"akkadien": "",
+"translitteration": "rabûm / rabītum",
+"traduction": "grand / grande",
+"categorie": "adjectif",
+"remarque": "Base rabī-"
+},
+{
+"akkadien": "",
+"translitteration": "damqum / damiqtum",
+"traduction": "bon / bonne",
+"categorie": "adjectif",
+"remarque": "Forme théorique *damiqum ; voyelle i préservée uniquement au fém. sg. en syllabe fermée"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "šadū-um > šadûm",
+"traduction": "montagne",
+"explication": "Contraction de la voyelle finale de la base šadū- (issue de ŠD') avec la désinence -um."
+},
+{
+"akkadien": "",
+"translitteration": "rabī-am > rabiam (ou rabī'am)",
+"traduction": "grand (acc. masc. sg.)",
+"explication": "Absence de contraction entre ī et la désinence -am à l'accusatif singulier masculin de l'adjectif."
+},
+{
+"akkadien": "",
+"translitteration": "*damiqum > damqum (masc.) / damiqtum (fém.)",
+"traduction": "bon / bonne",
+"explication": "Élision du i en syllabe ouverte (da-mi-qum > dam-qum), maintien en syllabe fermée devant t (da-miq-tum)."
+}
+],
+"remarques": [
+"Noter les contractions spécifiques de rubā- avec i/ī : rubā-im > rubêm, rubā-ī > rubê, rubā-īn > rubên.",
+"Dans le tableau p. 6, les formes non contractées de rabûm sont notées rabī'am, rabī'ātum, rabī'ātim (et rabiam, rabiātum, rabiātim dans le texte juste au-dessus)."
+],
+"a_retenir": [
+"Voyelle finale de base + voyelle de désinence = contraction notée par un accent circonflexe (^).",
+"Pas de contraction pour l'adjectif en -ī à l'acc. masc. sg. (rabiam) et au pl. fém. (rabiātum / rabiātim).",
+"Deux voyelles brèves en syllabe ouverte entraînent l'élision de la deuxième (*damiqum > damqum), mais maintien en syllabe fermée (damiqtum)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "IV. Autres suffixes",
+"sections": [
+{
+"titre": "Les suffixes -ūm (locatif) et -iš (terminatif / adverbial)",
+"fiches": [
+{
+"titre": "Emploi et valeurs des suffixes -ūm et -iš",
+"pages_source": "7",
+"notions": [
+{
+"titre": "Conditions générales d'ajout",
+"contenu": "Ces suffixes répondent à des emplois grammaticaux particuliers du substantif. Ils s'ajoutent soit à l'état indépendant (status rectus), soit à l'état construit (status constructus) suivi d'un élément au génitif ou d'un suffixe possessif (notions détaillées au chapitre suivant)."
+},
+{
+"titre": "Le suffixe -ūm (locatif)",
+"contenu": "Le suffixe -ūm exprime la notion de locatif. Il peut être employé à l'état indépendant (qui peut alors ne pas présenter de mimation, comme warkānū), à l'état construit suivi d'un génitif, ou suivi d'un suffixe possessif."
+},
+{
+"titre": "Le suffixe -iš (terminatif / adverbial)",
+"contenu": "Le suffixe -iš exprime les notions de terminatif ou d'adverbe (spatial, temporel, de manière, distributif, etc.). Comme -ūm, il s'emploie à l'état indépendant, à l'état construit suivi d'un génitif, ou suivi d'un suffixe possessif."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "elēnum",
+"traduction": "au-dessus",
+"categorie": "locatif (-ūm)",
+"remarque": "État indépendant (status rectus)"
+},
+{
+"akkadien": "",
+"translitteration": "elēnum ālim",
+"traduction": "au-dessus de la ville",
+"categorie": "locatif (-ūm) + génitif",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "rittūša",
+"traduction": "dans ses mains",
+"categorie": "locatif (-ūm) + suffixe possessif",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "warkānū",
+"traduction": "après",
+"categorie": "locatif (-ūm)",
+"remarque": "État indépendant (status rectus) sans mimation"
+},
+{
+"akkadien": "",
+"translitteration": "nukkurat āmariš",
+"traduction": "elle est étrange à regarder",
+"categorie": "proposition avec terminatif (-iš)",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "qātiššu",
+"traduction": "dans ses mains (à lui)",
+"categorie": "terminatif/locatif (-iš) + suffixe possessif",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "ašariš",
+"traduction": "là",
+"categorie": "adverbe (-iš)",
+"remarque": "Valeur spatiale"
+},
+{
+"akkadien": "",
+"translitteration": "dāriš",
+"traduction": "éternellement",
+"categorie": "adverbe (-iš)",
+"remarque": "Valeur temporelle"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "elēnum",
+"traduction": "au-dessus",
+"explication": "Suffixe locatif -ūm à l'état indépendant."
+},
+{
+"akkadien": "",
+"translitteration": "elēnum ālim",
+"traduction": "au-dessus de la ville",
+"explication": "Suffixe locatif -ūm suivi d'un nom au génitif (ālim)."
+},
+{
+"akkadien": "",
+"translitteration": "rittūša",
+"traduction": "dans ses mains",
+"explication": "Suffixe locatif -ūm suivi d'un suffixe possessif (-ša)."
+},
+{
+"akkadien": "",
+"translitteration": "warkānū",
+"traduction": "après",
+"explication": "Suffixe locatif -ūm à l'état indépendant sans mimation."
+},
+{
+"akkadien": "",
+"translitteration": "nukkurat āmariš",
+"traduction": "elle est étrange à regarder",
+"explication": "Emploi du suffixe -iš sur l'infinitif āmariš."
+},
+{
+"akkadien": "",
+"translitteration": "qātiššu",
+"traduction": "dans ses mains (à lui)",
+"explication": "Suffixe -iš suivi d'un suffixe possessif."
+},
+{
+"akkadien": "",
+"translitteration": "ašariš",
+"traduction": "là",
+"explication": "Emploi adverbial spatial du suffixe -iš."
+},
+{
+"akkadien": "",
+"translitteration": "dāriš",
+"traduction": "éternellement",
+"explication": "Emploi adverbial temporel du suffixe -iš."
+}
+],
+"remarques": [
+"Le document écrit -ūm en titre de paragraphe et -um dans la phrase de définition (« le suffixe -um est employé pour exprimer la notion de locatif ») ; la voyelle est longue (-ūm) comme le montrent rittūša et warkānū."
+],
+"a_retenir": [
+"Suffixe -ūm = locatif (ex. : elēnum « au-dessus », rittūša « dans ses mains ») ; peut perdre sa mimation à l'état indépendant (warkānū).",
+"Suffixe -iš = terminatif ou adverbe (spatial, temporel, manière, distributif ; ex. : ašariš « là », dāriš « éternellement »).",
+"Les deux suffixes s'emploient à l'état indépendant, devant un génitif ou devant un suffixe possessif."
+]
+}
+]
+}
+]
+}
+]
+}

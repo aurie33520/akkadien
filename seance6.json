@@ -1,0 +1,584 @@
+{
+"titre_cours": "La conjugaison du verbe fort au thème G (ou thème I)",
+"source": "ACRL_Akkadien I_Séance 6_Le thème G.pdf",
+"sections": [
+{
+"titre": "Introduction au thème G et classes vocaliques",
+"sections": [
+{
+"titre": "Définition du thème G et des quatre classes de verbes",
+"fiches": [
+{
+"titre": "Sens du thème G, préfixes personnels et voyelle thématique (classes a/u, a, i, u)",
+"pages_source": "1-2 (PDF p. 20-21)",
+"notions": [
+{
+"titre": "Définition du thème G (Grundstamm / thème I)",
+"contenu": "Le thème principal G (Grundstamm ou thème I) correspond au sens de base, le sens premier de la forme verbale, sans les degrés ou variations transmis par les autres thèmes. Le verbe s'y présente sous forme non conjuguée (infinitif, participe, adjectif verbal — suivant les paradigmes du substantif et de l'adjectif) ou sous forme conjuguée (inaccompli, accompli, parfait), auxquelles s'ajoute le statif."
+},
+{
+"titre": "Préfixes et suffixes personnels du thème G",
+"contenu": "Pour les thèmes G, Gt, Gtan, N, Nt, Ntan, les préfixes et suffixes personnels indiquant le sujet sont respectivement : a-... (je), ta-... (tu masc.), ta-...-ī (tu fém.), i-... (il), ta-... (elle), ni-... (nous), ta-...-ā (vous), i-...-ū (ils), i-...-ā (elles). Le sujet pronominal est toujours inclus dans le préfixe ; lorsqu'un pronom personnel indépendant est ajouté, il marque l'emphase."
+},
+{
+"titre": "Les quatre classes de verbes selon la voyelle thématique",
+"contenu": "La « voyelle thématique » est la voyelle située entre la 2e et la 3e consonne de la racine (ou entre la 1re et la 2e pour les verbes biconsonantiques). Elle apparaît entre l'accompli et l'inaccompli au thème G et est indiquée entre parenthèses dans les dictionnaires modernes :\n1) Verbes en a/u : changement de voyelle thématique entre l'inaccompli (a) et l'accompli (u). Ex. : parāsum « couper » (PRS) > inaccompli iparras, accompli iprus.\n2) Verbes en a : voyelle thématique a identique à l'inaccompli et à l'accompli. Ex. : ṣabātum « prendre » (ṢBT) > inaccompli iṣabbat, accompli iṣbat.\n3) Verbes en i : voyelle thématique i identique à l'inaccompli et à l'accompli. Ex. : šarāqum « dérober, voler » (ŠRQ) > inaccompli išarriq, accompli išriq.\n4) Verbes en u : voyelle thématique u identique à l'inaccompli et à l'accompli. Ex. : maqātum « tomber » (MQT) > inaccompli imaqqut, accompli imqut."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "šaṭārum",
+"traduction": "écrire",
+"categorie": "verbe",
+"remarque": "Inaccompli G 3msg : išaṭṭar"
+},
+{
+"akkadien": "",
+"translitteration": "parāsum",
+"traduction": "couper",
+"categorie": "verbe (classe a/u)",
+"remarque": "Racine PRS"
+},
+{
+"akkadien": "",
+"translitteration": "ṣabātum",
+"traduction": "prendre, saisir",
+"categorie": "verbe (classe a)",
+"remarque": "Racine ṢBT"
+},
+{
+"akkadien": "",
+"translitteration": "šarāqum",
+"traduction": "dérober, voler",
+"categorie": "verbe (classe i)",
+"remarque": "Racine ŠRQ"
+},
+{
+"akkadien": "",
+"translitteration": "maqātum",
+"traduction": "tomber",
+"categorie": "verbe (classe u)",
+"remarque": "Racine MQT"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "šarrum ṭuppam išaṭṭar",
+"traduction": "le roi écrit une/la tablette",
+"explication": "šaṭārum, thème G, inaccompli, 3e pers. masc. sing."
+},
+{
+"akkadien": "",
+"translitteration": "ṭuppam išaṭṭar",
+"traduction": "il écrit la tablette",
+"explication": "Sujet pronominal inclus dans le préfixe i-."
+}
+],
+"remarques": [
+"Rappel du cours : accompli (action ponctuelle), inaccompli (action dans la durée, redoublement de C2), parfait (action achevée en lien avec l'action en cours, infixe -t(a)-), statif (état)."
+],
+"a_retenir": [
+"Le thème G exprime le sens de base du verbe.",
+"4 classes vocaliques au thème G : a/u (iparras/iprus), a (iṣabbat/iṣbat), i (išarriq/išriq), u (imaqqut/imqut)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "Paradigme des formes conjuguées",
+"sections": [
+{
+"titre": "L'accompli / prétérit",
+"fiches": [
+{
+"titre": "Valeur et conjugaison complète de l'accompli (iPRuS)",
+"pages_source": "2-3 (PDF p. 21-22)",
+"notions": [
+{
+"titre": "Valeur et formation de l'accompli",
+"contenu": "Le paradigme de base est la 3e personne du singulier iPRuS (préfixe i-). On conserve ce schéma en faisant varier la voyelle thématique selon la classe du verbe et en adaptant les préfixes/suffixes personnels. L'accompli exprime une action ponctuelle ou achevée, traduite le plus souvent par un passé simple ou un passé composé."
+},
+{
+"titre": "Tableau de conjugaison de l'accompli",
+"contenu": "Format : Personne | parāsum (a/u, « couper ») | šarāqum (i, « voler/dérober ») | ṣabātum (a, « prendre ») | maqātum (u, « tomber ») :\n- 1m/fs : aprus (« j'ai coupé ») | ašriq (« j'ai volé ») | aṣbat (« j'ai saisi ») | amqut (« je suis tombé »)\n- 2ms : taprus (« tu as coupé ») | tašriq (« tu as volé ») | taṣbat (« tu as saisi ») | tamqut (« tu es tombé »)\n- 2fs : taprusī (« tu (fém.) as coupé ») | tašriqī (« tu (fém.) as volé ») | taṣbatī (« tu (fém.) as saisi ») | tamqutī (« tu es tombée »)\n- 3m/fs : iprus (« il/elle a coupé ») | išriq (« il/elle a volé ») | iṣbat (« il/elle a saisi ») | imqut (« il est tombé »)\n- 1m/fp : niprus (« nous avons coupé ») | nišriq (« nous avons volé ») | niṣbat (« nous avons saisi ») | nimqut (« nous sommes tombés »)\n- 2m/fp : taprusā (« vous avez coupé ») | tašriqā (« vous avez volé ») | taṣbatā (« vous avez saisi ») | tamqutā (« vous êtes tombés »)\n- 3mp : iprusū (« ils ont coupé ») | išriqū (« ils ont volé ») | iṣbatū (« ils ont saisi ») | imqutū (« ils sont tombés »)\n- 3fp : iprusā (« elles ont coupé ») | išriqā (« elles ont volé ») | iṣbatā (« elles ont saisi ») | imqutā (« elles sont tombées »)"
+}
+],
+"vocabulaire": [],
+"exemples": [],
+"remarques": [],
+"a_retenir": [
+"Schéma de base de l'accompli G : iPRuS (avec variation de la voyelle thématique : u, i, a ou u).",
+"Traduction usuelle : passé simple ou passé composé (action ponctuelle/achevée)."
+]
+}
+]
+},
+{
+"titre": "L'inaccompli / duratif",
+"fiches": [
+{
+"titre": "Valeur et conjugaison complète de l'inaccompli (iPaRRaS)",
+"pages_source": "3-4 (PDF p. 22-23)",
+"notions": [
+{
+"titre": "Valeur et formation de l'inaccompli",
+"contenu": "Le paradigme de base est la 3e personne du singulier iPaRRaS (avec redoublement de la 2e consonne radicale). On adapte la voyelle thématique selon la classe du verbe ainsi que les préfixes/suffixes personnels. L'inaccompli exprime une action non ponctuelle, dans la durée ou qui n'a pas encore eu lieu ; selon le contexte, il exprime l'habitude ou une action possible (sens modal) et se traduit par un présent de l'indicatif en français."
+},
+{
+"titre": "Tableau de conjugaison de l'inaccompli",
+"contenu": "Format : Personne | parāsum (a/u, « couper ») | šarāqum (i, « voler/dérober ») | ṣabātum (a, « saisir ») | maqātum (u, « tomber ») :\n- 1m/fs : aparras (« je coupe ») | ašarriq (« je vole ») | aṣabbat (« je saisis ») | amaqqut (« je tombe »)\n- 2ms : taparras (« tu coupes ») | tašarriq (« tu voles ») | taṣabbat (« tu saisis ») | tamaqqut (« tu tombes »)\n- 2fs : taparrasī (« tu (fém.) coupes ») | tašarriqī (« tu (fém.) voles ») | taṣabbatī (« tu (fém.) saisis ») | tamaqqutī (« tu tombes »)\n- 3m/fs : iparras (« il/elle coupe ») | išarriq (« il/elle vole ») | iṣabbat (« il/elle saisit ») | imaqqut (« il tombe »)\n- 1m/fp : niparras (« nous coupons ») | nišarriq (« nous volons ») | niṣabbat (« nous saisissons ») | nimaqqut (« nous tombons »)\n- 2m/fp : taparrasā (« vous coupez ») | tašarriqā (« vous volez ») | taṣabbatā (« vous saisissez ») | tamaqqutā (« vous tombez »)\n- 3mp : iparrasū (« ils coupent ») | išarriqū (« ils volent ») | iṣabbatū (« ils saisissent ») | imaqqutū (« ils tombent »)\n- 3fp : iparrasā (« elles coupent ») | išarriqā (« elles volent ») | iṣabbatā (« elles saisissent ») | imaqqutā (« elles tombent »)"
+}
+],
+"vocabulaire": [],
+"exemples": [],
+"remarques": [],
+"a_retenir": [
+"Schéma de base de l'inaccompli G : iPaRRaS (gémination de C2).",
+"Exprime la durée, l'habitude, le futur ou le modal ; traduit par un présent en français."
+]
+}
+]
+},
+{
+"titre": "Le parfait",
+"fiches": [
+{
+"titre": "Valeur, conjugaison du parfait (iPtaRaS), assimilations et élision vocalique",
+"pages_source": "4-5 (PDF p. 23-24)",
+"notions": [
+{
+"titre": "Valeur et formation du parfait",
+"contenu": "Le paradigme de base est la 3e personne du singulier iPtaRaS, formé en insérant l'infixe caractéristique -ta- / -t- entre la 1re et la 2e consonne de la racine. Le parfait exprime l'antériorité d'une action par rapport à une action principale ou en cours, ou la postériorité d'une action accomplie. Dans les phrases déclaratives du style épistolaire, il marque une relation au temps du destinataire de la lettre."
+},
+{
+"titre": "Tableau de conjugaison du parfait",
+"contenu": "Format : Personne | parāsum (a/u, « couper ») | šarāqum (i, « voler/dérober ») | ṣabātum (a, « prendre ») | maqātum (u, « tomber ») :\n- 1m/fs : aptaras (« je viens de couper ») | aštariq (« je viens de voler ») | aṣṣabat (« je viens de saisir ») | amtaqut (« je viens de tomber »)\n- 2ms : taptaras (« tu viens de couper ») | taštariq (« tu viens de voler ») | taṣṣabat (« tu viens de saisir ») | tamtaqut (« tu viens de tomber »)\n- 2fs : taptarsī (« tu (fém.) viens de couper ») | taštarqī (« tu (fém.) viens de voler ») | taṣṣabtī (« tu (fém.) viens de saisir ») | tamtaqtī (« tu viens de tomber »)\n- 3m/fs : iptaras (« il/elle vient de couper ») | ištariq (« il/elle vient de voler ») | iṣṣabat (« il/elle vient de saisir ») | imtaqut (« il vient de tomber »)\n- 1m/fp : niptaras (« nous venons de couper ») | ništariq (« nous venons de voler ») | niṣṣabat (« nous venons de saisir ») | nimtaqut (« nous venons de tomber »)\n- 2m/fp : taptarsā (« vous venez de couper ») | taštarqā (« vous venez de voler ») | taṣṣabtā (« vous venez de saisir ») | tamtaqtā (« vous venez de tomber »)\n- 3mp : iptarsū (« ils viennent de couper ») | ištarqū (« ils viennent de voler ») | iṣṣabtū (« ils viennent de saisir ») | imtaqtū (« ils viennent de tomber »)\n- 3fp : iptarsā (« elles viennent de couper ») | ištarqā (« elles viennent de voler ») | iṣṣabtā (« elles viennent de saisir ») | imtaqtā (« elles viennent de tomber »)"
+},
+{
+"titre": "Règles phonétiques du parfait (assimilations et sonorisation)",
+"contenu": "1) Assimilation totale : lorsque la 1re consonne du radical est d, t, ṭ, s, ṣ ou z, l'infixe -t-/-ta- s'assimile complètement à cette consonne (ex. : ṣabātum > aṣṣabat, iṣṣabat ; damāqum > iddamiq < *id-ta-miq ; ṭarādum > iṭṭarad < *iṭ-ta-rad ; sahāpum > issahap < *is-ta-hap). Cette assimilation ne se produit pas avec š (ex. : šakānum > ištakan).\n2) Sonorisation après g : lorsque la 1re consonne du radical est g, l'infixe -t-/-ta- devient -d- (ex. : gamārum > igdamar < *ig-ta-mar, tagdamrī)."
+},
+{
+"titre": "Élision de la voyelle thématique devant un suffixe vocalique",
+"contenu": "Aux personnes munies d'un suffixe personnel vocalique (2fs -ī, 2m/fp -ā, 3mp -ū, 3fp -ā), la succession de voyelles brèves en syllabes ouvertes entraîne la chute de la deuxième voyelle brève (la voyelle thématique) : tap-ta-ra-sī > taptarsī.\n\nDécomposition des formes élidées :\n- 2fs : *taptarasī > taptarsī | *taštariqī > taštarqī | *taṣ-t-abatī > taṣṣabtī | *tamtaqutī > tamtaqtī\n- 2m/fp : *taptarasā > taptarsā | *taštariqā > taštarqā | *taṣ-t-abatā > taṣṣabtā | *tamtaqutā > tamtaqtā\n- 3mp : *iptarasū > iptarsū | *ištariqū > ištarqū | *iṣ-t-abatū > iṣṣabtū | *imtaqutū > imtaqtū\n- 3fp : *iptarasā > iptarsā | *ištariqā > ištarqā | *iṣ-t-abatā > iṣṣabtā | *imtaqtā > imtaqtā"
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "damāqum",
+"traduction": "être bon",
+"categorie": "verbe",
+"remarque": "Parfait G : iddamiq (< *id-ta-miq)"
+},
+{
+"akkadien": "",
+"translitteration": "ṭarādum",
+"traduction": "",
+"categorie": "verbe",
+"remarque": "Parfait G : iṭṭarad (< *iṭ-ta-rad)"
+},
+{
+"akkadien": "",
+"translitteration": "sahāpum",
+"traduction": "",
+"categorie": "verbe",
+"remarque": "Parfait G : issahap (< *is-ta-hap)"
+},
+{
+"akkadien": "",
+"translitteration": "šakānum",
+"traduction": "placer",
+"categorie": "verbe",
+"remarque": "Parfait G : ištakan (pas d'assimilation avec š)"
+},
+{
+"akkadien": "",
+"translitteration": "gamārum",
+"traduction": "",
+"categorie": "verbe",
+"remarque": "Parfait G : igdamar (< *ig-ta-mar)"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "iddamiq (*id-ta-miq) ; iṭṭarad (*iṭ-ta-rad) ; issahap (*is-ta-hap)",
+"traduction": "",
+"explication": "Assimilation totale de l'infixe -t-/-ta- après d, ṭ, s."
+},
+{
+"akkadien": "",
+"translitteration": "ištakan",
+"traduction": "",
+"explication": "Maintien du -t- après š (de šakānum)."
+},
+{
+"akkadien": "",
+"translitteration": "igdamar (*ig-ta-mar) ; tagdamrī",
+"traduction": "",
+"explication": "Sonorisation de l'infixe -t- en -d- après g (de gamārum)."
+}
+],
+"remarques": [
+"La page 6 du PDF (source 25) est blanche dans le document.",
+"Dans le texte p. 5 (PDF p. 24), la liste des consonnes assimilant -t- omet le ṣ dans l'énumération (« d, t, ṭ, s ou z »), bien que l'exemple traité immédiatement après soit ṣabātum > aṣṣabat."
+],
+"a_retenir": [
+"Schéma du parfait G : iPtaRaS (infixe -ta- entre C1 et C2).",
+"Assimilations de -t- : d, t, ṭ, s, ṣ, z + t > gémination (iṣṣabat, iddamiq) ; g + t > gd (igdamar) ; š + t reste št (ištakan).",
+"Devant un suffixe vocalique (-ī, -ā, -ū), la voyelle thématique tombe (iptaras + ū > iptarsū)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "Paradigme des formes non conjuguées",
+"sections": [
+{
+"titre": "L'infinitif et le participe",
+"fiches": [
+{
+"titre": "L'infinitif (PaRāSum) et le participe / nom d'agent (PāRiSum)",
+"pages_source": "7 (PDF p. 26)",
+"notions": [
+{
+"titre": "L'infinitif (PaRāSum)",
+"contenu": "Formé sur le paradigme PaRāSum (un a bref entre C1 et C2, un ā long entre C2 et C3), l'infinitif prend les désinences du substantif au singulier (nominatif, accusatif, génitif) et n'a pas de pluriel. Il est souvent employé au génitif après une préposition (traduit fréquemment par un gérondif ou « pour + infinitif ») et peut conserver sa rection accusative (avoir un COD à l'accusatif)."
+},
+{
+"titre": "Le participe / nom d'agent (PāRiSum)",
+"contenu": "Formé sur le paradigme PāRiSum, il prend les désinences des adjectifs (masculin et féminin, singulier et pluriel). Très souvent substantivé, il prend alors au pluriel masculin les terminaisons nominales -ū, -ī (pārisū, pārisī).\n\nDéclinaison de pārisum (« coupeur / celui qui coupe ») :\n- Nominatif singulier : masc. pārisum | fém. pāristum\n- Accusatif singulier : masc. pārisam | fém. pāristam\n- Génitif singulier : masc. pārisim | fém. pāristim\n- Nominatif pluriel : masc. pārisūtum | fém. pārisātum\n- Oblique pluriel : masc. pārisūtim | fém. pārisātim"
+},
+{
+"titre": "Emploi et constructions du participe",
+"contenu": "Le participe a un sens actif et désigne celui qui accomplit l'action (les verbes d'état comme damāqum n'ont pas de participe, leur fonction étant assurée par l'adjectif verbal). Il peut s'employer à l'état construit : au féminin, l'état construit est pārisat devant un génitif, mais pārisata devant un suffixe possessif. Avec les verbes intransitifs de mouvement, le génitif suivant le participe indique le lieu (souvent traduit par une relative)."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "pālih ilim",
+"traduction": "le fidèle du dieu (litt. « le craignant du dieu »)",
+"categorie": "participe à l'état construit + génitif",
+"remarque": "PLH, G, participe à l'état construit"
+},
+{
+"akkadien": "",
+"translitteration": "šarrum ālik pānīya",
+"traduction": "le roi qui marche devant moi (litt. « le roi, le marcheur de ma face »)",
+"categorie": "syntagme nominal avec participe",
+"remarque": "Participe d'un verbe de mouvement à l'état construit + génitif de lieu"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "ina maqātim",
+"traduction": "en tombant",
+"explication": "MQT, G, infinitif au génitif introduit par la préposition ina (sens gérondif)."
+},
+{
+"akkadien": "",
+"translitteration": "ana parāsim",
+"traduction": "pour couper",
+"explication": "PRS, G, infinitif au génitif introduit par la préposition ana."
+},
+{
+"akkadien": "",
+"translitteration": "kaspam ina šarāqim",
+"traduction": "en volant l'argent",
+"explication": "ŠRQ, G, infinitif au génitif introduit par ina, conservant un complément d'objet direct à l'accusatif (kaspam)."
+}
+],
+"remarques": [],
+"a_retenir": [
+"Infinitif G = PaRāSum (déclinaison du substantif singulier, pas de pluriel, garde sa rection accusative).",
+"Participe G = PāRiSum (nom d'agent actif ; pluriel masculin -ūtum/-ūtim, ou -ū/-ī lorsqu'il est substantivé)."
+]
+}
+]
+},
+{
+"titre": "L'adjectif verbal",
+"fiches": [
+{
+"titre": "Morphologie (PaRSum < *parisum), valeurs sémantiques et déclinaison",
+"pages_source": "8 (PDF p. 27)",
+"notions": [
+{
+"titre": "Formation et sens de l'adjectif verbal",
+"contenu": "L'adjectif verbal suit le paradigme PaRSum (< *parisum) avec les désinences de l'adjectif. Sa valeur varie selon le type de racine :\n1) Racines transitives-actives : sens passif (mahṣum « battu », ṣabtum « pris, saisi », šaknum « placé, installé », šarqum « volé »).\n2) Racines intransitives-actives : sens résultatif (halqum « échappé, disparu, perdu », maqtum « tombé, en ruines »).\n3) Racines statives/adjectivales : simple sens descriptif (damqum « bon », dannum « fort », marṣum « malade », rapšum « large »)."
+},
+{
+"titre": "Déclinaison de l'adjectif verbal (variations vocaliques au féminin singulier)",
+"contenu": "Au féminin singulier (syllabe fermée), la voyelle thématique originale réapparaît (i, a ou u) :\n- damāqum (« être bon ») : masc. damqum, damqim, damqam, damqūtum, damqūtim | fém. damiqtum, damiqtim, damiqtam, damqātum, damqātim\n- rapāšum (« être large ») : masc. rapšum, rapšim, rapšam, rapšūtum, rapšūtim | fém. rapaštum, rapaštim, rapaštam, rapšātum, rapšātim\n- zapārum (« être pourri, mauvais ») : masc. zaprum, zaprim, zapram, zaprūtum, zaprūtim | fém. zapurtum, zapurtim, zapurtam, zaprātum, zaprātim"
+},
+{
+"titre": "Opposition entre le participe (pārisum) et l'adjectif verbal (parsum)",
+"contenu": "1) Pour les verbes transitifs : le participe a un sens actif, tandis que l'adjectif verbal a un sens passif.\n2) Pour les verbes intransitifs à sens actif (ex. verbes de mouvement) : le participe se traduit par un participe présent (« étant assis... »), et l'adjectif verbal par un participe passé (« s'étant assis, assis »)."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "mahṣum",
+"traduction": "battu",
+"categorie": "adjectif verbal (MHṢ, G)",
+"remarque": "Sens passif (racine transitive)"
+},
+{
+"akkadien": "",
+"translitteration": "ṣabtum",
+"traduction": "pris, saisi",
+"categorie": "adjectif verbal (ṢBT, G)",
+"remarque": "Sens passif"
+},
+{
+"akkadien": "",
+"translitteration": "šaknum",
+"traduction": "placé, installé",
+"categorie": "adjectif verbal (ŠKN, G)",
+"remarque": "Sens passif"
+},
+{
+"akkadien": "",
+"translitteration": "šarqum",
+"traduction": "volé",
+"categorie": "adjectif verbal (ŠRQ, G)",
+"remarque": "Sens passif"
+},
+{
+"akkadien": "",
+"translitteration": "halqum",
+"traduction": "échappé, disparu, perdu",
+"categorie": "adjectif verbal (G)",
+"remarque": "Sens résultatif (racine intransitive-active)"
+},
+{
+"akkadien": "",
+"translitteration": "maqtum",
+"traduction": "tombé, en ruines",
+"categorie": "adjectif verbal (MQT, G)",
+"remarque": "Sens résultatif"
+},
+{
+"akkadien": "",
+"translitteration": "marṣum",
+"traduction": "malade",
+"categorie": "adjectif verbal (G)",
+"remarque": "Sens descriptif (racine stative)"
+},
+{
+"akkadien": "",
+"translitteration": "zapārum / zaprum",
+"traduction": "être pourri, mauvais / pourri, mauvais",
+"categorie": "verbe / adjectif verbal",
+"remarque": "Féminin singulier : zapurtum"
+},
+{
+"akkadien": "",
+"translitteration": "wāšibum / wašbum",
+"traduction": "étant assis... / s'étant assis, assis",
+"categorie": "participe / adjectif verbal",
+"remarque": "Opposition participe présent vs participe passé sur un verbe de mouvement"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "wāšibum vs wašbum",
+"traduction": "étant assis... vs s'étant assis, assis",
+"explication": "Opposition sur un verbe intransitif de mouvement entre le participe (wāšibum) et l'adjectif verbal (wašbum)."
+}
+],
+"remarques": [],
+"a_retenir": [
+"Adjectif verbal = PaRSum (< *parisum) : sens passif (verbes transitifs), résultatif (verbes intransitifs actifs) ou descriptif (verbes statifs).",
+"Au féminin singulier, la voyelle thématique réapparaît (damiqtum, rapaštum, zapurtum)."
+]
+}
+]
+},
+{
+"titre": "Entre les deux, le statif (ou permansif)",
+"fiches": [
+{
+"titre": "Nature, suffixes personnels, propriétés syntaxiques et paradigmes du statif",
+"pages_source": "8-10 (PDF p. 27-29)",
+"notions": [
+{
+"titre": "Définition et nature hybride du statif",
+"contenu": "Le statif (ou permansif) est un adjectif verbal prédicatif conjugué selon la personne du sujet. À la frontière entre forme verbale conjuguée et construction nominale, il exprime un état atemporel, une description ou le résultat durable d'une action (d'où son emploi fréquent dans les listes scientifiques : astronomie, médecine, mathématiques). Il est neutre vis-à-vis du temps. On distingue ainsi l'épithète šarrum marṣum (« le roi malade ») du prédicat au statif šarrum mariṣ (« le roi est malade »)."
+},
+{
+"titre": "Suffixes personnels spécifiques du statif",
+"contenu": "Singulier : 1c -āku | 2m -āta | 2f -āti | 3m -0 (zéro) | 3f -at\nDuel : 3m -ā | 3f -ā\nPluriel : 1c -ānu | 2m -ātunu | 2f -ātina | 3m -ū | 3f -ā\n\nHarmonisation vocalique : avec les verbes et substantifs de type e (dont la racine contient un e), le ā des afformantes devient ē : šebērum (« casser ») > sg. šeber, šebret, šebrēta, šebrēti, šebrēku ; pl. šebrū, šebrā, šebrētunu, šebrētina, šebrēnu (et bēlēku < *bēl-āku « je suis seigneur »)."
+},
+{
+"titre": "Comportement syntaxique et bases possibles du statif",
+"contenu": "Bien qu'exprimant un état, le statif se comporte comme un verbe : il peut prendre des désinences modales, avoir un complément d'objet direct ou indirect, et se place à la fin de la phrase.\nBases pouvant former un statif :\n1) Verbes transitifs : généralement à sens passif (action terminée dont le résultat dure : ālum šakin « la ville est/était située », ṣabit « il est en captivité »), mais parfois actifs avec objet direct (ahiz « il (dé)tient », lamdāku « je sais »).\n2) Verbes d'état / adjectifs : damāqum > damiq (« il est bon »), qarrād-āku (« je suis un héros »), rabâta (« tu es grand »).\n3) Substantifs (emploi marginal = prédicat nominal « ... est X ») : possible uniquement si le nom n'a ni qualificatif ni complément (Hammurapi šar « Hammurabi est roi » ; mais sans statif si qualifié/complété : Hammurapi šarrum dannum, Hammurapi šar mātim).\n4) Participes (plus rarement) : nādināku (« je suis celui qui donne » < nādinum)."
+},
+{
+"titre": "Tableau de conjugaison du statif (damāqum et parāsum)",
+"contenu": "Format : Personne | damāqum (« être bon ») | parāsum (« couper ») :\n- Sg. 1 : damqāku | parsāku\n- Sg. 2m : damqāta | parsāta\n- Sg. 2f : damqāti | parsāti\n- Sg. 3m : damiq | paris\n- Sg. 3f : damqat | parsat\n- Pl. 1 : damqānu | parsānu\n- Pl. 2m : damqātunu | parsātunu\n- Pl. 2f : damqātina | parsātina\n- Pl. 3m : damqū | parsū\n- Pl. 3f : damqā | parsā"
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "ahāzum",
+"traduction": "saisir, tenir, détenir",
+"categorie": "verbe",
+"remarque": "Statif 3ms actif : ahiz « il (dé)tient »"
+},
+{
+"akkadien": "",
+"translitteration": "lamādum",
+"traduction": "apprendre, enseigner",
+"categorie": "verbe",
+"remarque": "Statif 1cs actif : lamdāku « je sais »"
+},
+{
+"akkadien": "",
+"translitteration": "šebērum",
+"traduction": "casser",
+"categorie": "verbe (type e)",
+"remarque": "Statif avec harmonisation en ē (šeber, šebret, šebrēku...)"
+},
+{
+"akkadien": "",
+"translitteration": "rīmum",
+"traduction": "taureau sauvage",
+"categorie": "substantif",
+"remarque": "Statif 1cs : rīmāku"
+},
+{
+"akkadien": "",
+"translitteration": "labbum",
+"traduction": "lion",
+"categorie": "substantif",
+"remarque": "Statif 1cs : labbāku"
+},
+{
+"akkadien": "",
+"translitteration": "qarrādum",
+"traduction": "héros",
+"categorie": "substantif / adjectif",
+"remarque": "Statif 1cs : qarrād-āku « je suis un héros »"
+},
+{
+"akkadien": "",
+"translitteration": "nādinum",
+"traduction": "celui qui donne",
+"categorie": "participe",
+"remarque": "Statif 1cs : nādināku « je suis celui qui donne »"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "šarrum marṣum vs šarrum mariṣ",
+"traduction": "le roi malade vs le roi est malade",
+"explication": "Opposition entre l'adjectif verbal épithète (marṣum) et le statif prédicatif (mariṣ)."
+},
+{
+"akkadien": "",
+"translitteration": "ālum šakin",
+"traduction": "la ville est/était située",
+"explication": "šakānum, G, statif, 3pmsg (sens passif résultatif)."
+},
+{
+"akkadien": "",
+"translitteration": "ṣabit",
+"traduction": "il est en captivité",
+"explication": "Statif 3msg de ṣabātum « saisir »."
+},
+{
+"akkadien": "",
+"translitteration": "ina šamê rīmāku ina erṣetim labbāku",
+"traduction": "dans le ciel, je suis le taureau sauvage, sur la terre, je suis le lion !",
+"explication": "Erra I, l. 109 : statifs 1re pers. sing. (-āku) formés sur les substantifs rīmum et labbum."
+},
+{
+"akkadien": "",
+"translitteration": "sinništum damqat vs sinništum damiqtum",
+"traduction": "la femme est bonne vs la femme bonne",
+"explication": "Statif 3f sg. (damqat) vs adjectif verbal épithète (damiqtum)."
+},
+{
+"akkadien": "",
+"translitteration": "Hammurapi šar / Hammurapi šarrum dannum / Hammurapi šar mātim",
+"traduction": "Hammurabi est roi / Hammurabi est un roi fort / Hammurabi est le roi du pays",
+"explication": "Le statif nominal (šar) n'est employé que si le nom n'a ni qualificatif ni complément."
+},
+{
+"akkadien": "",
+"translitteration": "rabâta",
+"traduction": "tu es grand",
+"explication": "Statif 2ms formé sur l'adjectif rabûm."
+}
+],
+"remarques": [
+"Dans le texte p. 9 (PDF p. 28), il y a une coquille d'impression « ahiz il (dé)teint » pour « il (dé)tient »."
+],
+"a_retenir": [
+"Le statif est un prédicat exprimant un état atemporel (se place en fin de phrase, peut avoir un COD).",
+"Suffixes du statif : 1cs -āku, 2ms -āta, 2fs -āti, 3ms -0, 3fs -at | 1cp -ānu, 2mp -ātunu, 2fp -ātina, 3mp -ū, 3fp -ā (passent à -ē- avec les racines de type e).",
+"3e masc. sing. = paris / damiq (voyelle thématique visible, sans terminaison)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "Tableau récapitulatif du thème G",
+"sections": [
+{
+"titre": "Synthèse des formes du thème G à la 3e personne du singulier",
+"fiches": [
+{
+"titre": "Tableau récapitulatif du thème G par classe de verbes (d'après Huehnergard 2000)",
+"pages_source": "11 (PDF p. 30)",
+"notions": [
+{
+"titre": "Tableau récapitulatif complet (3e personne du singulier)",
+"contenu": "Format : Classe | Infinitif | Inaccompli | Parfait | Accompli | Impératif | Participe | Adjectif verbal :\n- G (a-u) : parāsum | iparras | iptaras* | iprus | purus* | pāris- | paris-*\n- G (a) : ṣabātum | iṣabbat | iṣṣabat*² | iṣbat | ṣabat* | ṣābit- | ṣabit-*\n- G (i) : šarāqum | išarriq | ištariq* | išriq | širiq* | šāriq- | šariq-*\n- G (u) : maqātum | imaqqut | imtaqut* | imqut | muqut* | māqit- | maqit-*"
+},
+{
+"titre": "Notes morphologiques du tableau",
+"contenu": "1) Formes marquées d'un astérisque (*) : elles perdent la voyelle située devant la dernière consonne du radical lors de l'ajout d'une finale vocalique (ex. : parfait G iptarsū).\n2) Formes marquées d'un ² : elles présentent une assimilation ou métathèse de la sifflante initiale avec l'infixe -t- (ex. : iṣṣabat).\n3) L'impératif est mentionné dans le tableau et sera analysé au cours d'une séance ultérieure."
+}
+],
+"vocabulaire": [],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "iptarsū",
+"traduction": "",
+"explication": "Chute de la voyelle devant la dernière consonne radicale lors de l'ajout de la finale vocalique -ū."
+}
+],
+"remarques": [
+"Noter que dans la colonne « adjectif verbal », la forme indiquée (paris-*, ṣabit-*, šariq-*, maqit-*) correspond au thème de base avant élision de la voyelle thématique devant les désinences vocaliques (parsum, ṣabtum, šarqum, maqtum)."
+],
+"a_retenir": [
+"Modèle G (a/u) : parāsum | iparras | iptaras | iprus | purus | pāris- | paris-.",
+"Modèle G (a) : ṣabātum | iṣabbat | iṣṣabat | iṣbat | ṣabat | ṣābit- | ṣabit-.",
+"Modèle G (i) : šarāqum | išarriq | ištariq | išriq | širiq | šāriq- | šariq-.",
+"Modèle G (u) : maqātum | imaqqut | imtaqut | imqut | muqut | māqit- | maqit-."
+]
+}
+]
+}
+]
+}
+]
+}

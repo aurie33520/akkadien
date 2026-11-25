@@ -1,0 +1,621 @@
+{
+"titre_cours": "État absolu, état construit et expressions de la possession",
+"source": "ACRL_Akkadien I_Séance 4_Etat construit et expression de la possession.pdf",
+"sections": [
+{
+"titre": "Les trois états du substantif",
+"sections": [
+{
+"titre": "L'état indépendant (status rectus) et l'état absolu (status absolutus)",
+"fiches": [
+{
+"titre": "Définition du status rectus et morphologie/emplois du status absolutus",
+"pages_source": "1 (PDF p. 8)",
+"notions": [
+{
+"titre": "L'état indépendant (status rectus)",
+"contenu": "C'est la forme la plus courante du substantif, lorsqu'il est accompagné des désinences casuelles (šarrum, šarram, šarrim, etc.). Il peut être accompagné d'un adjectif, mais n'est pas suivi d'un génitif ni d'un pronom suffixe possessif."
+},
+{
+"titre": "L'état absolu (status absolutus) : formation",
+"contenu": "Il s'agit du substantif dépourvu des désinences casuelles. La voyelle brève qui avait été supprimée suite à l'ajout de la désinence retrouve sa place (ex. : eṭlum > eṭel ; napšatum/napištum > napšat). Exception : sinništum (« femme ») perd sa désinence féminine -(a)t à l'état absolu et donne sinniš ; on prendra donc napšatum comme paradigme de base pour les autres substantifs féminins."
+},
+{
+"titre": "Emplois de l'état absolu",
+"contenu": "1) Avec les nombres cardinaux et les mesures de poids (mana « mine », šiqil « sicle ») ou de longueur.\n2) Dans des expressions figées relatives au temps, au lieu ou à la quantité.\n3) Dans des paires figées (« petit et grand », « homme et femme ») ou, en littérature, dans des locutions du type substantif + négation (lā) + infinitif (« sans pareil »).\n4) Pour former des formes statives à partir de substantifs, désignant un état ou une action dans la durée."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "šarrum / šar",
+"traduction": "le roi",
+"categorie": "substantif (status rectus / status absolutus)",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "eṭlum / eṭel",
+"traduction": "héros",
+"categorie": "substantif (status rectus / status absolutus)",
+"remarque": "Réapparition de la voyelle brève élidée"
+},
+{
+"akkadien": "",
+"translitteration": "napšatum, napištum / napšat",
+"traduction": "vie",
+"categorie": "substantif féminin (status rectus / status absolutus)",
+"remarque": "Paradigme de base des substantifs féminins à l'état absolu"
+},
+{
+"akkadien": "",
+"translitteration": "sinništum / sinniš",
+"traduction": "femme",
+"categorie": "substantif féminin (status rectus / status absolutus)",
+"remarque": "Exception : perd la marque féminine -(a)t"
+},
+{
+"akkadien": "",
+"translitteration": "mana",
+"traduction": "mine",
+"categorie": "mesure de poids",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "šiqil",
+"traduction": "sicle",
+"categorie": "mesure de poids",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "ištēn",
+"traduction": "un",
+"categorie": "nombre cardinal",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "šina",
+"traduction": "deux",
+"categorie": "nombre cardinal",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "šalāš",
+"traduction": "trois",
+"categorie": "nombre cardinal",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "erbe",
+"traduction": "quatre",
+"categorie": "nombre cardinal",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "hamiš",
+"traduction": "cinq",
+"categorie": "nombre cardinal",
+"remarque": ""
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "ištēn mana kaspam išaqqalū",
+"traduction": "Ils payeront une mine d'argent",
+"explication": "Emploi de l'état absolu avec un nombre cardinal et une mesure de poids (išaqqalū : ŠQL, G, inaccompli, 3pmp)."
+},
+{
+"akkadien": "",
+"translitteration": "ina šanat",
+"traduction": "dans un an",
+"explication": "Expression figée temporelle à l'état absolu."
+},
+{
+"akkadien": "",
+"translitteration": "ana dār",
+"traduction": "pour toujours",
+"explication": "Expression figée temporelle à l'état absolu."
+},
+{
+"akkadien": "",
+"translitteration": "ašar ištēn",
+"traduction": "en un unique lieu (lit. « un lieu »)",
+"explication": "Expression figée spatiale à l'état absolu."
+},
+{
+"akkadien": "",
+"translitteration": "ana šaluš",
+"traduction": "pour un tiers",
+"explication": "Expression figée de quantité à l'état absolu."
+},
+{
+"akkadien": "",
+"translitteration": "ana šīm gamer",
+"traduction": "pour un prix total",
+"explication": "Expression figée de quantité à l'état absolu."
+},
+{
+"akkadien": "",
+"translitteration": "ṣeher (u) rabi",
+"traduction": "petit et grand",
+"explication": "Expression figée à l'état absolu."
+},
+{
+"akkadien": "",
+"translitteration": "zikir (u) sinniš",
+"traduction": "homme et femme",
+"explication": "Expression figée à l'état absolu (orthographié « zikir (u) šinniš » dans le document)."
+},
+{
+"akkadien": "",
+"translitteration": "Sebetti qarrād lā šanān",
+"traduction": "les (dieux) Sebetti, héros sans pareil",
+"explication": "Locution littéraire : substantif à l'état absolu + négation lā + infinitif."
+},
+{
+"akkadien": "",
+"translitteration": "šar lā šanān",
+"traduction": "roi sans pareil",
+"explication": "Locution littéraire : substantif à l'état absolu + négation lā + infinitif."
+},
+{
+"akkadien": "",
+"translitteration": "šarrāq",
+"traduction": "il est voleur",
+"explication": "Forme stative formée sur l'état absolu d'un substantif (état dans la durée)."
+},
+{
+"akkadien": "",
+"translitteration": "aššat",
+"traduction": "elle est épouse",
+"explication": "Forme stative formée sur l'état absolu d'un substantif (état dans la durée)."
+}
+],
+"remarques": [
+"Attention à l'exception sinništum > sinniš (perte du -t du féminin à l'état absolu)."
+],
+"a_retenir": [
+"Status rectus = nom avec désinences casuelles (šarrum).",
+"Status absolutus = nom sans désinence casuelle, avec restitution de la voyelle brève élidée (eṭel, napšat ; exception : sinniš).",
+"Emplois du status absolutus : nombres cardinaux et mesures, expressions figées (temps, lieu, quantité), locutions littéraires (X lā + infinitif) et statif nominal (šarrāq, aššat)."
+]
+}
+]
+},
+{
+"titre": "L'état construit devant un substantif au génitif",
+"sections": [],
+"fiches": [
+{
+"titre": "Chaîne génitivale : structure, morphologie et syntaxe",
+"pages_source": "1-3 (PDF p. 8-10)",
+"notions": [
+{
+"titre": "Définition générale de l'état construit (status constructus)",
+"contenu": "L'état construit est la forme que prend un substantif : 1) devant un autre substantif au génitif (formant une « construction génitivale », sans accent ni désinence casuelle) ; 2) devant un pronom suffixé ; 3) plus rarement, devant une proposition asyndétique sans pronom relatif. Bien que ces constructions expriment la possession, elles doivent être distinguées morphologiquement."
+},
+{
+"titre": "Structure de la chaîne génitivale (nomen regens / nomen rectum)",
+"contenu": "La chaîne génitivale unit deux mots en relation étroite : le premier terme est le nomen regens (le possédé), qui se met à l'état construit ; le second terme est le nomen rectum (le possesseur), qui se met au génitif."
+},
+{
+"titre": "Règles morphologiques devant un génitif",
+"contenu": "1) Chute des désinences du singulier : la mimation, la nunation et les voyelles casuelles brèves du singulier chutent.\n2) Préservation du pluriel masculin : les désinences -ū (nominatif) et -ī (oblique) sont conservées (bēlū mātim « les maîtres du pays » vs bēl mātim « le maître/roi du pays » ; kalbī awīlim « les chiens de l'homme » vs kalab awīlim « le chien de l'homme »).\n3) Pluriel féminin et adjectif masculin pluriel : les désinences -ā/ētum et -ūtum apparaissent en -ā/ēt et -ūt, mais la tendance est d'utiliser le singulier pour le pluriel (šīb ālim « les anciens de la ville », litt. « ancien de la ville »).\n4) Voyelle d'appui -i : les substantifs féminins et les bases biconsonantiques au masculin et/ou terminées par une double consonne reçoivent un -i final à tous les cas (abi bītim, ṭuppi šarrim, niditti awīlim, ina libbi ālim). Exception : šarrum donne šar.\n5) Masculins terminés par une double consonne identique : ils ne conservent qu'une consonne et insèrent une voyelle entre C2 et C3 (kunukkum > kunuk šarrim ; ēkallum > ekal šarrim).\n6) Radicaux terminés par une voyelle : ils prennent une voyelle longue (ī, ā) ou perdent la voyelle (kalā, kalī, kal)."
+},
+{
+"titre": "Règles syntaxiques de la chaîne génitivale",
+"contenu": "1) Enchaînement multiple : un substantif peut être suivi de plusieurs compléments au génitif en cascade.\n2) Expression d'une idée complexe : la chaîne génitivale peut former une locution lexicalisée.\n3) Place de l'adjectif épithète : si le nomen regens (à l'état construit) est qualifié par un adjectif, celui-ci se place après le complément du nom (nomen rectum)."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "warad šarrim",
+"traduction": "l'esclave du roi",
+"categorie": "chaîne génitivale",
+"remarque": "warad = état construit de wardum"
+},
+{
+"akkadien": "",
+"translitteration": "ana šar mātim",
+"traduction": "pour le roi du pays",
+"categorie": "préposition + chaîne génitivale",
+"remarque": "ana (+ gén.) + šar (nomen regens) + mātim (nomen rectum au gén.)"
+},
+{
+"akkadien": "",
+"translitteration": "bēl dāmim",
+"traduction": "assassin (litt. « maître du sang »)",
+"categorie": "chaîne génitivale",
+"remarque": "Idée complexe"
+},
+{
+"akkadien": "",
+"translitteration": "bēl arnim",
+"traduction": "criminel (litt. « maître du crime »)",
+"categorie": "chaîne génitivale",
+"remarque": "Idée complexe"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "bēlū mātim / bēl mātim",
+"traduction": "les maîtres du pays / le roi (maître) du pays",
+"explication": "Conservation de la désinence -ū du nominatif pluriel masculin à l'état construit."
+},
+{
+"akkadien": "",
+"translitteration": "kalbī awīlim / kalab awīlim",
+"traduction": "les chiens de l'homme / le chien de l'homme",
+"explication": "Conservation de la désinence -ī du cas oblique pluriel masculin ; au singulier, insertion de la voyelle d'appui a (kalab)."
+},
+{
+"akkadien": "",
+"translitteration": "šīb ālim",
+"traduction": "les anciens de la ville (litt. « ancien de la ville »)",
+"explication": "Tendance à employer le singulier à l'état construit pour exprimer le pluriel."
+},
+{
+"akkadien": "",
+"translitteration": "abi bītim ; ṭuppi šarrim ; niditti awīlim ; ina libbi ālim",
+"traduction": "le père de la maison ; la tablette du roi ; le don de l'homme ; au cœur de la ville",
+"explication": "Ajout de la voyelle finale d'appui -i à tous les cas."
+},
+{
+"akkadien": "",
+"translitteration": "kunuk šarrim ; ekal šarrim",
+"traduction": "le sceau du roi ; le palais du roi",
+"explication": "Simplification de la consonne géminée finale (kunukkum, ēkallum) et insertion d'une voyelle entre C2 et C3."
+},
+{
+"akkadien": "",
+"translitteration": "mār bīt ṭuppim",
+"traduction": "le scribe (litt. « le fils de la maison de la tablette »)",
+"explication": "Chaîne génitivale multiple."
+},
+{
+"akkadien": "DINGIR E2.GAL LUGAL",
+"translitteration": "ili ēkal šarrim",
+"traduction": "le dieu du palais du roi",
+"explication": "Chaîne génitivale multiple avec logogrammes sumériens."
+},
+{
+"akkadien": "",
+"translitteration": "šar mātim dannum vs šar mātim dannatim",
+"traduction": "le roi fort du pays vs le roi du pays fort",
+"explication": "L'adjectif se place après le complément du nom : dannum (masc. nom.) qualifie šar, tandis que dannatim (fém. gén.) qualifie mātim."
+}
+],
+"remarques": [
+"Bien que bēlum signifie « maître / souverain », le cours traduit bēl mātim par « le roi du pays » p. 2 (PDF p. 9).",
+"Le document écrit « kalā, mais aussi kalī, kal » p. 3 (PDF p. 10) et « kalā, kalī, kāl » dans le tableau p. 8 (PDF p. 15)."
+],
+"a_retenir": [
+"Nomen regens (possédé, à l'état construit) + Nomen rectum (possesseur, au génitif).",
+"Les voyelles casuelles brèves et la mimation chutent au singulier, mais -ū et -ī du pluriel masculin sont conservés.",
+"L'adjectif épithète qualifiant le nomen regens se place toujours après le nomen rectum (šar mātim dannum)."
+]
+}
+]
+},
+{
+"titre": "L'état construit avec suffixes possessifs",
+"sections": [],
+"fiches": [
+{
+"titre": "Tableau des pronoms suffixes possessifs et règles d'attachement",
+"pages_source": "3-5 (PDF p. 10-12)",
+"notions": [
+{
+"titre": "Paradigme des pronoms suffixes possessifs",
+"contenu": "Les suffixes se greffent à la fin du substantif (en un seul mot) et indiquent le genre et le nombre du possesseur :\n- 1re pers. sing. (« mon ») : -ī (après une consonne), -ā (après un ū), -īa / -ya / -ja (après les autres voyelles)\n- 2e pers. masc. sing. (« ton ») : -ka\n- 2e pers. fém. sing. (« ton ») : -ki\n- 3e pers. masc. sing. (« son ») : -šu, -su\n- 3e pers. fém. sing. (« son ») : -ša, -sa\n- 1re pers. plur. (« notre/nos ») : -ni\n- 2e pers. masc. plur. (« votre/vos ») : -kunu\n- 2e pers. fém. plur. (« votre/vos ») : -kina\n- 3e pers. masc. plur. (« leur(s) ») : -šunu, -sunu\n- 3e pers. fém. plur. (« leur(s) ») : -šina, -sina"
+},
+{
+"titre": "Règles morphologiques devant les suffixes possessifs",
+"contenu": "1) Chute de la mimation, de la nunation et des voyelles casuelles brèves.\n2) Identité du nominatif et de l'accusatif singulier devant -ī (1re pers. sg.) : bēlī (« mon seigneur »).\n3) Attachement aux autres personnes : soit directement au radical (bēlka), soit via une voyelle d'aide -a (nidinta+šu > nidittašu).\n4) Distinction nominatif / accusatif et allongement vocalique : les noms Pa/i/uRS à 3e consonne faible ainsi que abum, ahum, emum distinguent nominatif et accusatif et allongent la voyelle restante (abūka, abīka, abāka). Les radicaux terminés par une voyelle distinguent souvent les deux cas (rubûka) ou s'accolent directement (bānīka).\n5) Construction du génitif singulier : formé sur le status rectus sans mimation, avec allongement du -i devant le suffixe (règle discutée par les assyriologues), d'où l'emploi du suffixe -ya après voyelle (ana bēlīya, ana amatīša, ana kalbīya).\n6) Pluriels, féminins et adjectifs : les pluriels distinguent nominatif (-ū) et oblique (-ī) ; les féminins et adjectifs pluriels perdent la mimation et allongent la voyelle restante (errētūšu, dannūtūšu).\n7) Noms à double consonne finale (hors PaRS/PiRS/PuRS) : prennent un -a bref (non allongé) au nominatif et à l'accusatif singulier (ṭuppašu, libbaki, ummašunu)."
+},
+{
+"titre": "Assimilation phonétique aux 3es personnes (š > s) et logogrammes",
+"contenu": "Aux 3es personnes (-šu, -ša, -šunu, -šina), le š devient s après les dentales (d, t, ṭ) et après z, s, ṣ et š qui s'assimilent (ex. : *kalbat+šu > kalbassu ; *bīt+šu > bīssu ; epēš-šu). Ce phénomène s'applique aussi lors de la normalisation des logogrammes sumériens : E2.ZU = *bīt-zu > bīssu (« sa maison » à lui) et E2.ZA = *bīt-za > bīssa (« sa maison » à elle)."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "emum",
+"traduction": "beau-père",
+"categorie": "substantif masculin",
+"remarque": "Suit le modèle de abum et ahum"
+},
+{
+"akkadien": "",
+"translitteration": "amatum",
+"traduction": "servante",
+"categorie": "substantif féminin",
+"remarque": "Apparaît dans ana amatīša"
+},
+{
+"akkadien": "",
+"translitteration": "bānûm",
+"traduction": "bâtisseur, constructeur",
+"categorie": "substantif",
+"remarque": "Base bānī-"
+},
+{
+"akkadien": "E2.ZU",
+"translitteration": "bīssu",
+"traduction": "sa maison (à lui)",
+"categorie": "logogramme + suffixe",
+"remarque": "Normalisation de *bīt-zu (E2 = bītum, ZU = 3e masc. sg.)"
+},
+{
+"akkadien": "E2.ZA",
+"translitteration": "bīssa",
+"traduction": "sa maison (à elle)",
+"categorie": "logogramme + suffixe",
+"remarque": "Normalisation de *bīt-za (E2 = bītum, ZA = 3e fém. sg.)"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "bīt+šu > bīssu",
+"traduction": "sa maison",
+"explication": "Assimilation de la dentale t + š en ss."
+},
+{
+"akkadien": "",
+"translitteration": "bēl+ī : bēlī",
+"traduction": "mon seigneur",
+"explication": "Forme identique au nominatif et à l'accusatif singulier devant -ī."
+},
+{
+"akkadien": "",
+"translitteration": "nidinta+šu : nidittašu",
+"traduction": "son cadeau, son don",
+"explication": "Attachement du suffixe au moyen de la voyelle d'aide -a (avec assimilation nt > tt)."
+},
+{
+"akkadien": "",
+"translitteration": "abūka, abīka, abāka",
+"traduction": "ton père (nom., gén., acc.)",
+"explication": "Distinction des trois cas et allongement de la voyelle restante."
+},
+{
+"akkadien": "",
+"translitteration": "ana bēlīya",
+"traduction": "À mon maître",
+"explication": "Préposition ana + génitif bēli(m) avec allongement du -ī devant le suffixe 1re sg. -ya."
+},
+{
+"akkadien": "",
+"translitteration": "errētūšu ; dannūtūšu",
+"traduction": "ses malédictions ; ses forteresses",
+"explication": "Pluriel féminin / adjectif : chute de la mimation et allongement du -u."
+},
+{
+"akkadien": "",
+"translitteration": "ṭuppašu ; libbaki ; ummašunu",
+"traduction": "sa tablette ; ton cœur ; leur mère",
+"explication": "Substantifs à double consonne finale prenant un -a bref au nom./acc. singulier."
+},
+{
+"akkadien": "",
+"translitteration": "*kalbat+šu > kalbassu",
+"traduction": "sa chienne (à lui)",
+"explication": "Passage de š à s et assimilation de la dentale t devant s."
+}
+],
+"remarques": [
+"La différence entre -ya et -ja relève uniquement des traditions assyriologiques (-y chez les anglo-saxons, -j chez les germanophones)."
+],
+"a_retenir": [
+"Suffixe 1re pers. sg. (« mon ») : -ī après consonne, -ā après -ū, -ya/-ja/-īa après les autres voyelles.",
+"Génitif singulier devant suffixe : voyelle -ī longue (ex. : ana bēlīya, ana kalbīya).",
+"Règle phonétique majeure : dentale (d, t, ṭ) ou sifflante/affriquée (z, s, ṣ, š) + š > ss (ex. : *bīt+šu > bīssu)."
+]
+}
+]
+},
+{
+"titre": "L'expression de la possession avec ša",
+"sections": [],
+"fiches": [
+{
+"titre": "Construction génitivale analytique avec la particule ša",
+"pages_source": "5 (PDF p. 12)",
+"notions": [
+{
+"titre": "Structure et emplois de ša",
+"contenu": "La particule ša (dérivée du pronom relatif défini šu « celui de ») permet d'exprimer une relation génitivale selon la structure : status rectus + ša + substantif au génitif.\nElle est employée lorsque le nomen regens et le nomen rectum sont éloignés, pour lever une ambiguïté lorsque l'état construit a la même forme que le status rectus, ou pour éviter la lourdeur stylistique d'une chaîne génitivale en littérature."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "ša",
+"traduction": "de, celui de",
+"categorie": "particule / pronom relatif",
+"remarque": "Dérivée du pronom relatif défini šu « celui de » ; suivie du génitif"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "kalab šarrim / kalbum ša šarrim",
+"traduction": "le chien du roi",
+"explication": "Équivalence entre la chaîne génitivale à l'état construit (kalab šarrim) et la construction avec ša (status rectus kalbum + ša + génitif šarrim)."
+},
+{
+"akkadien": "",
+"translitteration": "bīt awīlim / bītum ša awīlim",
+"traduction": "la maison de l'homme",
+"explication": "Équivalence entre l'état construit et la construction analytique avec ša."
+}
+],
+"remarques": [],
+"a_retenir": [
+"Construction avec ša : status rectus + ša + génitif (ex. : bītum ša awīlim = bīt awīlim).",
+"Sert à éviter les ambiguïtés morphologiques ou la lourdeur des chaînes génitivales."
+]
+}
+]
+},
+{
+"titre": "Récapitulatif : morphologie de l'état construit",
+"sections": [],
+"fiches": [
+{
+"titre": "Typologie des bases nominales et tableaux récapitulatifs de l'état construit (singulier et pluriel)",
+"pages_source": "6-8 (PDF p. 13-15)",
+"notions": [
+{
+"titre": "Classification des types de formes nominales",
+"contenu": "1) Monosyllabique biconsonantique à voyelle longue : bēlum (« souverain »).\n2) Monosyllabique biconsonantique à voyelle brève : abum (« père »), ahum (« frère »), emum (« beau-père »), idum (« bras »), šumum (« nom »).\n3) Monosyllabique triconsonantique (3e consonne faible invisible) à voyelle longue : mārum (« fils »), bīšum (« possession »), hīṭum (« faute »).\n4) Monosyllabique terminé par une consonne redoublée : libbum (« cœur »), ṭuppum (« tablette ») ; et šarrum (« roi ») à traiter à part.\n5) Dissyllabique terminé par une consonne redoublée : kunukkum (« sceau »).\n6) Thèmes triconsonantiques dissyllabiques : rapšum (« large »), damqum (« bon »), lemnum (« mauvais ») < rapaš, damiq, lemun.\n7) Thèmes triconsonantiques monosyllabiques PaRS, PiRS, PuRS : kalbum, šiprum, šulmum. Pour éviter la biconsonance finale devant le génitif ou un suffixe autre que -ī, ils insèrent une voyelle d'appui en répétant la voyelle principale (mahru > mahar ; šipru > šipir ; kalab ; šulum).\n8) Féminins monosyllabiques en -t : šubtum (« résidence »), bēltum (« souveraine, dame »), ṣibtum (« intérêt »), šīmtum (« destin »). Ils insèrent un -a entre la base et la désinence du féminin (šubat, bēlet). Cas particuliers : qīštum (« présent »), nidintum (« don », polysyllabique), šā'iltum / šākintum (participe féminin).\n9) Thèmes à 3e consonne faible : bānûm (< banium), kalûm (< kala'um), rubûm (< rubā'um).\n10) Pluriels : šarrū (subst. masc. pl.), dannūtum (adj. masc. pl.)."
+},
+{
+"titre": "Tableau 1 : État construit en chaîne génitivale et devant pronoms suffixes (singulier)",
+"contenu": "Format : Status rectus (trad.) | Chaîne génitivale | Nom./Acc. + -ī (1sg) | Nom./Acc. + autres suffixes | Gén./Obl. + autres suffixes :\n- bēlum (« maître ») | bēl | bēlī | bēlka, bēlki, etc. | bēlīya\n- šarratum (« reine ») | šarrat | šarratī | šarratka, šarratki, etc. | šarratīya\n- abum (« père ») | abi | abī | abūka, abāka | abīya\n- idum (« bras ») | idi | idī | idka, issu (< *id-šu) | idīya\n- šumum (« nom ») | šumi | šumī | šumka, šumšu | šumīya\n- mārum (« fils ») | māri, mār | mārī | mārūka, mārāka | mārīya\n- hīṭum (« faute ») | hīṭi, hīṭ | hīṭī | hīṭūka, hīṭāka | hīṭīya\n- bīšum (« possession ») | bīši, bīš | bīšī | bīšūka, bīšāka | bīšīya\n- libbum (« cœur ») | libbi | libbī | libbaka | libbīya\n- ṭuppum (« tablette ») | ṭuppi | ṭuppī | ṭuppaka, ṭuppašu | ṭuppīya\n- šarrum (« roi ») | šar | šarrī | šarraka, šarrašu | šarrīya\n- kunukkum (« sceau ») | kunuk | kunukkī | kunukkaka, kunukkašu | kunukkīya\n- kalbum (« chien ») | kalab | kalbī | kalabka | kalbīya\n- šiprum (« message ») | šipir | šiprī | šipiršu, šipirša | šiprīya\n- šulmum (« santé ») | šulum | šulmī | šulumka, šulumšu | šulmīya\n- šubtum (« résidence ») | šubat | šubtī | šubatni | šubtīya\n- ṣibtum (« intérêt ») | ṣibat | ṣibtī | ṣibatka | ṣibatīya\n- bēltum (« maîtresse ») | bēlet | bēltī | bēletka | bēletīya\n- šīmtum (« destin ») | šīmti (šīmat) | šīmtī | šīmatka, šīmassu | šīmatīya\n- qīštum (« présent ») | qīšti | qīštī | qīštaka | qīštīya\n- nidintum (« don ») | nidinti (nidnat) | nidintī | nidintaka | nidintīya\n- šākintum (« posant », fém.) | šākinat | šākintī | šākintaka | šākintīya\n- bānûm (*bānī-um, « constructeur ») | bānī, bān | bānī | bānûka (nom.), bānâka (acc.), bānīka (nom./acc.) | bānīya\n- kalûm (*kala-um, « tout ») | kalā, kalī, kāl | kalī | kalūka (nom.), kalâka (acc.) | kalīya\n- rubûm (*rubāum, « prince ») | rubê | rubî / rube? | rubûka (nom.), rubâka (acc.) | rubî / rubêya"
+},
+{
+"titre": "Tableau 2 : Formes à l'état construit au pluriel",
+"contenu": "Format : Forme | Cas | Chaîne génitivale | + 1re pers. sg. | + 2e pers. masc. sg. :\n- šarrū (« les rois ») : nom. šarrū | šarrū'a (« mes rois ») | šarrūka (« tes rois ») ; obl. šarrī | šarrīya | šarrīka\n- šarrātum (« les reines ») : nom. šarrāt | šarrātū'a | šarrātūka ; obl. (šarrāt) | šarrātīya | šarrātīka\n- errētum : nom. errēt | errētū'a | errētūka ; obl. (errēt) | errētīya | errētīka\n- dannūtum : nom. dannūt | dannūtū'a | dannūtūka ; obl. dannūtīya | dannūtīka"
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "idum",
+"traduction": "bras",
+"categorie": "substantif",
+"remarque": "État construit idi ; id+šu > issu"
+},
+{
+"akkadien": "",
+"translitteration": "šumum",
+"traduction": "nom",
+"categorie": "substantif",
+"remarque": "État construit šumi"
+},
+{
+"akkadien": "",
+"translitteration": "hīṭum",
+"traduction": "faute",
+"categorie": "substantif",
+"remarque": "État construit hīṭi, hīṭ"
+},
+{
+"akkadien": "",
+"translitteration": "bīšum",
+"traduction": "possession",
+"categorie": "substantif",
+"remarque": "État construit bīši, bīš"
+},
+{
+"akkadien": "",
+"translitteration": "rapšum",
+"traduction": "large",
+"categorie": "adjectif",
+"remarque": "Thème triconsonantique dissyllabique < rapaš"
+},
+{
+"akkadien": "",
+"translitteration": "lemnum",
+"traduction": "mauvais",
+"categorie": "adjectif",
+"remarque": "Thème triconsonantique dissyllabique < lemun"
+},
+{
+"akkadien": "",
+"translitteration": "šubtum",
+"traduction": "résidence",
+"categorie": "substantif féminin",
+"remarque": "État construit šubat"
+},
+{
+"akkadien": "",
+"translitteration": "ṣibtum",
+"traduction": "intérêt",
+"categorie": "substantif féminin",
+"remarque": "État construit ṣibat"
+},
+{
+"akkadien": "",
+"translitteration": "bēltum",
+"traduction": "souveraine, dame, maîtresse",
+"categorie": "substantif féminin",
+"remarque": "État construit bēlet"
+},
+{
+"akkadien": "",
+"translitteration": "šīmtum",
+"traduction": "destin",
+"categorie": "substantif féminin",
+"remarque": "État construit šīmti (šīmat)"
+},
+{
+"akkadien": "",
+"translitteration": "qīštum",
+"traduction": "présent",
+"categorie": "substantif féminin",
+"remarque": "État construit qīšti"
+},
+{
+"akkadien": "",
+"translitteration": "šākintum",
+"traduction": "posant (fém.)",
+"categorie": "participe féminin",
+"remarque": "État construit šākinat"
+},
+{
+"akkadien": "",
+"translitteration": "kalûm",
+"traduction": "tout",
+"categorie": "substantif",
+"remarque": "De *kala-um"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "mahru > mahar ; šipru > šipir",
+"traduction": "",
+"explication": "Insertion d'une voyelle d'appui répétant la voyelle principale dans les formes PaRS, PiRS, PuRS."
+},
+{
+"akkadien": "",
+"translitteration": "šubtum > šubat",
+"traduction": "résidence",
+"explication": "Insertion d'un -a entre la base et le -t du féminin à l'état construit."
+},
+{
+"akkadien": "",
+"translitteration": "id+šu > issu",
+"traduction": "son bras",
+"explication": "Assimilation régressive de la dentale d devant le suffixe -šu."
+}
+],
+"remarques": [
+"Dans le tableau p. 7 (PDF p. 14), l'état construit de kalbum en chaîne génitivale est écrit « kalāb » par coquille dans la case alors que le cours indique « kalab » p. 2 (PDF p. 9).",
+"Pour rubûm devant -ī (1re sg.), le tableau indique « rubî/rube? » avec un point d'interrogation dans l'original."
+],
+"a_retenir": [
+"Les thèmes PaRS/PiRS/PuRS répètent leur voyelle radicale à l'état construit (kalab, šipir, šulum), sauf devant -ī (kalbī, šiprī, šulmī).",
+"Les monosyllabiques à consonne double (libbum, ṭuppum) prennent -i en chaîne génitivale (libbi, ṭuppi) et -a devant les suffixes (libbaka, ṭuppašu), sauf šarrum (šar en chaîne génitivale).",
+"Les féminins monosyllabiques en -t insèrent une voyelle avant -t (šubat, bēlet), mais la suppriment devant -ī (šubtī, bēltī)."
+]
+}
+]
+}
+]
+}
+]
+}

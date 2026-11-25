@@ -1,0 +1,74 @@
+{
+  "titre_cours": "Akkadien — grammaire de base",
+  "source": "Exemple fictif pour tester l’application",
+  "sections": [
+    {
+      "titre": "Séance 1 — Le système nominal",
+      "sections": [
+        {
+          "titre": "Les cas",
+          "fiches": [
+            {
+              "titre": "Les trois cas du singulier",
+              "pages_source": "12-15",
+              "resume": "Le nom akkadien se décline en trois cas, marqués par la voyelle finale (mimation).",
+              "notions": [
+                { "titre": "Nominatif", "contenu": "Cas du sujet. Terminaison -um au singulier.", "important": true },
+                { "titre": "Génitif", "contenu": "Complément du nom et après préposition. Terminaison -im." },
+                { "titre": "Accusatif", "contenu": "Cas du complément d’objet direct. Terminaison -am." }
+              ],
+              "tableaux": [
+                {
+                  "titre": "Déclinaison de šarrum (roi)",
+                  "entetes": ["Cas", "Singulier", "Pluriel"],
+                  "lignes": [
+                    ["Nominatif", "šarrum", "šarrū"],
+                    ["Génitif", "šarrim", "šarrī"],
+                    ["Accusatif", "šarram", "šarrī"]
+                  ]
+                }
+              ],
+              "vocabulaire": [
+                { "akkadien": "šarrum", "traduction": "roi" },
+                { "akkadien": "ālum", "traduction": "ville", "remarque": "Nom masculin en akkadien." },
+                { "akkadien": "ilum", "traduction": "dieu" }
+              ],
+              "signes": [
+                { "signe": "𒀭", "valeurs": ["dingir", "an", "il"], "signification": "dieu, ciel" },
+                { "signe": "𒈗", "valeurs": ["lugal", "šar"], "signification": "roi" }
+              ],
+              "exemples": [
+                {
+                  "translitteration": "šarrum ālam iṣbat",
+                  "traduction": "Le roi a pris la ville.",
+                  "explication": "šarrum au nominatif (sujet), ālam à l’accusatif (objet)."
+                }
+              ],
+              "exceptions": ["Au pluriel, le génitif et l’accusatif ont la même forme (cas oblique -ī)."],
+              "remarques": ["La mimation disparaît à l’époque tardive."]
+            },
+            {
+              "titre": "Emploi de la préposition ana",
+              "exemples": [
+                {
+                  "translitteration": "awīlum ana ālim illik",
+                  "traduction": "L’homme est allé à la ville.",
+                  "explication": "Après ana, le nom est au génitif (ālim)."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "titre": "Séance 2 — Le verbe",
+      "fiches": [
+        {
+          "titre": "Le prétérit",
+          "notions": [{ "contenu": "Temps du passé, formé avec un préfixe personnel : i- à la 3e personne." }]
+        }
+      ]
+    }
+  ]
+}

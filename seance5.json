@@ -1,0 +1,416 @@
+{
+"titre_cours": "Séance 5. Le système verbal akkadien",
+"source": "ACRL_Akkadien I_Séance 5_Le système verbal akkadien.pdf",
+"sections": [
+{
+"titre": "Objectifs et principes généraux",
+"sections": [
+{
+"titre": "Fonctionnement de la racine verbale et notion de thème",
+"fiches": [
+{
+"titre": "Structure flexionnelle et définition du thème formel (Stamm)",
+"pages_source": "1 (PDF p. 16)",
+"notions": [
+{
+"titre": "Modifications de la racine verbale",
+"contenu": "L'akkadien est une langue flexionnelle où les racines consonantiques (le plus souvent triconsonantiques) subissent des variations pour exprimer les modifications verbales (action achevée, action en cours, etc.). La racine est modifiée par : l'ajout de préfixes ou de suffixes, la répartition de voyelles de qualité et longueur définies entre les consonnes radicales, et l'allongement (redoublement) de la deuxième consonne radicale, selon diverses combinaisons."
+},
+{
+"titre": "Définition du thème formel (Stamm)",
+"contenu": "Un ensemble cohérent de ces modifications morphologiques constitue un « thème formel » (Stamm en allemand), qui est souvent associé à une modification sémantique."
+}
+],
+"vocabulaire": [],
+"exemples": [],
+"remarques": [],
+"a_retenir": [
+"La racine verbale (généralement triconsonantique) est modifiée par des affixes, la vocalisation interne et l'allongement de C2.",
+"Un thème formel (Stamm) est un ensemble cohérent de modifications morphologiques associé à une valeur sémantique."
+]
+}
+]
+}
+]
+},
+{
+"titre": "I. Les thèmes",
+"sections": [
+{
+"titre": "Les quatre thèmes de base (G, D, Š, N) et les thèmes dérivés",
+"fiches": [
+{
+"titre": "Présentation des thèmes G, D, Š, N, des thèmes dérivés (-t-, -tan-) et rares (ŠD, R)",
+"pages_source": "1-2 (PDF p. 16-17)",
+"notions": [
+{
+"titre": "Les quatre thèmes fondamentaux (terminologie allemande G, D, Š, N / anglosaxonne I, II, III, IV)",
+"contenu": "Modélisés sur la racine paradigmatique PRS (infinitif parāsum « couper ») :\n1) Thème G (thème I, Grundstamm) : conjugaison de base exprimant l'action simple, le plus souvent active (pas systématiquement), sans ajout morphologique ou sémantique à la racine. Préformante des préfixes personnels : i-.\n2) Thème D (thème II, Doppelungstamm) : caractérisé par le redoublement de la 2e consonne du radical et par la préformante u- aux préfixes personnels. Exprime une action intensive active ; donne un sens actif à un verbe de sens passif/d'état au thème G.\n3) Thème Š (thème III) : caractérisé par l'ajout de l'infixe/préfixe š(a)- à la racine et par la préformante u- aux préfixes personnels. Exprime l'action provoquée, le causatif ; fréquemment employé avec des verbes intransitifs de mouvement.\n4) Thème N (thème IV) : caractérisé par le préfixe n(a)- ajouté à la racine et par la préformante i- aux préfixes personnels. Exprime l'action simple passive, l'action subie. Le n- s'assimile à la 1re consonne du radical (ipparras < *inparras)."
+},
+{
+"titre": "Les thèmes dérivés (-t- et -tan-)",
+"contenu": "Chacun des quatre thèmes peut se modifier à un second degré :\n1) Gt, Dt, Št, Nt (ajout de l'infixe -t-) : expriment l'action réfléchie, réciproque, passive et le séparatif.\n2) Gtn, Dtn, Štn, Ntn (ajout de l'infixe -tan-) : expriment une action itérative, répétée, habituelle (« faire sans cesse quelque chose »)."
+},
+{
+"titre": "Les thèmes rares (ŠD et R)",
+"contenu": "1) Thème ŠD : employé dans les textes littéraires, hymnes et épopées ; combine l'infixe -š et le redoublement de la 2e consonne du radical (mélange des thèmes D et Š).\n2) Thème R : caractérisé par le redoublement de la 3e consonne du radical. Forme rare qui n'était déjà plus vraiment en usage à l'époque paléo-babylonienne, attestée dans des textes littéraires avec des verbes ou adjectifs verbaux en rapport avec le divin."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "ebēbum / ubbubum",
+"traduction": "être pur (G) / rendre pur, purifier (D)",
+"categorie": "verbe (infinitifs G / D)",
+"remarque": "Passage d'un sens d'état/passif au thème G à un sens actif au thème D"
+},
+{
+"akkadien": "",
+"translitteration": "kânum / kunnum",
+"traduction": "être ferme (G) / affermir (D)",
+"categorie": "verbe (infinitifs G / D)",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "maqātum / šumqutum",
+"traduction": "tomber (G) / faire tomber (Š)",
+"categorie": "verbe (infinitifs G / Š)",
+"remarque": "Causatif au thème Š"
+},
+{
+"akkadien": "",
+"translitteration": "wabālum / šūbulum",
+"traduction": "apporter, porter (G) / faire apporter, faire porter (Š)",
+"categorie": "verbe (infinitifs G / Š)",
+"remarque": "Orthographié « šubulum » dans le texte"
+},
+{
+"akkadien": "",
+"translitteration": "ša'ālum",
+"traduction": "interroger",
+"categorie": "verbe (infinitif G)",
+"remarque": "Au Gt : aštâl « je me demande »"
+},
+{
+"akkadien": "",
+"translitteration": "šuharruru",
+"traduction": "être extrêmement silencieux",
+"categorie": "verbe / adjectif verbal (thème R)",
+"remarque": "Redoublement de la 3e consonne du radical"
+},
+{
+"akkadien": "",
+"translitteration": "nawurrum",
+"traduction": "brillant, étincelant",
+"categorie": "adjectif verbal (thème R)",
+"remarque": "Redoublement de la 3e consonne du radical"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "iparras ; iprus",
+"traduction": "il coupe/il coupera ; il a coupé",
+"explication": "Formes du thème G (action simple) sur PRS."
+},
+{
+"akkadien": "",
+"translitteration": "uparras",
+"traduction": "",
+"explication": "3e pers. masc. sing. du thème D (préformante u- + redoublement de C2)."
+},
+{
+"akkadien": "",
+"translitteration": "ušapras",
+"traduction": "il fera couper",
+"explication": "Thème Š (préformante u- + infixe ša-)."
+},
+{
+"akkadien": "",
+"translitteration": "ṭuppam ana bēlīya ušābilam",
+"traduction": "j'ai fait porter la tablette à mon seigneur",
+"explication": "Verbe wabālum conjugué au thème Š causatif (orthographié « ušabilam » dans le document)."
+},
+{
+"akkadien": "",
+"translitteration": "ipparras (< *inparras)",
+"traduction": "il sera coupé",
+"explication": "Thème N passif avec assimilation du préfixe n- à la première consonne radicale p."
+},
+{
+"akkadien": "",
+"translitteration": "ašâl / aštâl",
+"traduction": "j'interroge / je me demande",
+"explication": "Opposition entre le thème G (inaccompli 1sg de ša'ālum) et le thème réfléchi Gt (infixe -t-)."
+},
+{
+"akkadien": "",
+"translitteration": "ašappar / aštanappar",
+"traduction": "j'écris / je ne cesse d'envoyer",
+"explication": "Opposition entre le thème G (inaccompli 1sg de šapārum) et le thème itératif Gtn (infixe -tan-)."
+}
+],
+"remarques": [
+"Attention aux préformantes des préfixes personnels : i- pour G et N ; u- pour D et Š.",
+"Le document note parfois « Gtan » pour « Gtn » dans les explications."
+],
+"a_retenir": [
+"G (préformante i-) = action simple ; D (préformante u-, C2 redoublée) = action intensive / factitive ; Š (préformante u-, ša-) = causatif ; N (préformante i-, n-) = passif.",
+"Infixe -t- (Gt, Dt, Št, Nt) = réfléchi, réciproque, passif, séparatif.",
+"Infixe -tan- (Gtn, Dtn, Štn, Ntn) = itératif, répété, habituel.",
+"Thèmes rares : ŠD (littéraire, mélange D + Š) et R (redoublement de C3, rapport avec le divin)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "II. Les « temps »",
+"sections": [
+{
+"titre": "Valeur aspectuelle et inventaire des formes temporelles",
+"fiches": [
+{
+"titre": "Accompli, inaccompli, parfait, statif et impératif",
+"pages_source": "2-3 (PDF p. 17-18)",
+"notions": [
+{
+"titre": "Les cinq tiroirs verbaux",
+"contenu": "L'akkadien comporte deux « temps » de base (l'accompli et l'inaccompli), auxquels s'ajoutent le parfait, l'impératif et le statif :\n1) L'accompli (ou prétérit/passé) : exprime une action ponctuelle (ex. : iprus).\n2) L'inaccompli (ou duratif/futur) : exprime une action dans la durée. Il est caractérisé par le redoublement de la 2e consonne du radical (ex. : iparras « il coupe/coupera »).\n3) Le parfait (perfect) : exprime une action achevée ayant un lien avec l'action en cours. Il est caractérisé par l'infixe -t(a)-.\n4) Le statif (permansif) : exprime un état.\n5) L'impératif : exprime un ordre."
+},
+{
+"titre": "Valeur aspectuelle (accompli / inaccompli) plutôt que temporelle",
+"contenu": "On privilégie les termes « accompli » et « inaccompli » plutôt que « passé » ou « futur ». Dans les langues sémitiques, les temps verbaux n'indiquent pas une époque (passé, présent, futur), mais l'aspect de l'action (ponctuelle vs dans la durée). On peut ainsi trouver l'accompli et l'inaccompli dans une même phrase ; c'est le contexte général qui détermine la traduction au passé, au présent ou au futur."
+}
+],
+"vocabulaire": [],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "iparras",
+"traduction": "il coupe / coupera",
+"explication": "Inaccompli : redoublement de la 2e consonne radicale (r)."
+},
+{
+"akkadien": "",
+"translitteration": "« il coupait du bois lorsqu'elle entra chez lui » / « il coupe du bois lorsqu'elle entre chez moi »",
+"traduction": "",
+"explication": "Exemple français illustrant que la combinaison duratif (inaccompli) + ponctuel (accompli) s'exprime de la même manière en akkadien quelle que soit l'époque."
+}
+],
+"remarques": [],
+"a_retenir": [
+"Accompli (prétérit) = action ponctuelle ; Inaccompli (duratif, C2 redoublée) = action dans la durée.",
+"Parfait (infixe -t(a)-) = action achevée liée à l'action en cours ; Statif = état ; Impératif = ordre.",
+"Les « temps » akkadiens expriment l'aspect (ponctuel vs duratif), pas l'époque chronologique."
+]
+}
+]
+}
+]
+},
+{
+"titre": "III. Verbes forts ? verbes faibles ?",
+"sections": [
+{
+"titre": "Distinction entre verbes forts et verbes faibles",
+"fiches": [
+{
+"titre": "Verbes forts (paradigme PaRaSum) et catégories de verbes faibles",
+"pages_source": "3 (PDF p. 18)",
+"notions": [
+{
+"titre": "Les verbes forts",
+"contenu": "Les verbes forts ne subissent pas de modifications phonétiques. PaRaSum (« couper ») en est le paradigme de base, car aucune de ses consonnes (P, R, S) n'est employée comme afformante, préfixe ou désinence."
+},
+{
+"titre": "Les verbes faibles et les consonnes faibles",
+"contenu": "Les verbes faibles subissent des modifications phonétiques (assimilation d'une consonne radicale comme le n, disparition d'une consonne comme ', conjugaison irrégulière) et se présentent souvent comme des racines bilitères (biconsonantiques). Les consonnes faibles qui déterminent le caractère faible d'un verbe sont : n, w, y et ' (aleph)."
+},
+{
+"titre": "Classification des verbes faibles par chiffre romain",
+"contenu": "Les verbes faibles sont classés selon la position de la consonne manquante ou défective, indiquée par un chiffre romain : par exemple, les verbes I-n ont un n comme 1re consonne radicale ; les verbes II-w ont un w comme 2e consonne radicale."
+}
+],
+"vocabulaire": [],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "PaRaSum",
+"traduction": "couper",
+"explication": "Paradigme de base des verbes forts."
+}
+],
+"remarques": [],
+"a_retenir": [
+"Verbes forts = aucune altération phonétique des trois consonnes radicales (ex. : PRS).",
+"Les 4 consonnes faibles sont : n, w, y et '.",
+"Notation des verbes faibles par chiffre romain selon la position de la consonne faible (ex. : I-n, II-w)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "IV. Les classes de verbes",
+"sections": [
+{
+"titre": "Classification selon la voyelle thématique",
+"fiches": [
+{
+"titre": "Les quatre classes vocaliques (a/u, a, i, u)",
+"pages_source": "3-4 (PDF p. 18-19)",
+"notions": [
+{
+"titre": "Définition et repérage de la voyelle thématique",
+"contenu": "Chaque racine verbale possède une voyelle thématique (brève ou longue) placée entre la 2e et la 3e consonne du radical (ou entre la 1re et la 2e pour les verbes biconsonantiques). On l'identifie grâce à la forme du verbe au thème G à l'accompli et à l'impératif. Elle est généralement indiquée entre parenthèses dans les dictionnaires et permet de classer les verbes en quatre classes (souvent liées à des groupes sémantiques)."
+},
+{
+"titre": "Les quatre classes de verbes",
+"contenu": "1) Classe a/u : alternance vocalique entre l'inaccompli (a) et l'accompli (u). Ex. : parāsum > iparras (inaccompli) vs iprus (accompli).\n2) Classe a : voyelle thématique a à l'accompli. Ex. : ṣabātum > iṣbat.\n3) Classe i : voyelle thématique i à l'accompli. Ex. : šarāqum > išriq.\n4) Classe u : voyelle thématique u à l'accompli. Ex. : maqātum > imqut."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "ṣabātum",
+"traduction": "",
+"categorie": "verbe (classe a)",
+"remarque": "Accompli G : iṣbat"
+},
+{
+"akkadien": "",
+"translitteration": "šarāqum",
+"traduction": "",
+"categorie": "verbe (classe i)",
+"remarque": "Accompli G : išriq"
+},
+{
+"akkadien": "",
+"translitteration": "maqātum",
+"traduction": "tomber",
+"categorie": "verbe (classe u)",
+"remarque": "Accompli G : imqut"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "parāsum : iparras vs iprus",
+"traduction": "",
+"explication": "Classe a/u : changement de la voyelle thématique entre inaccompli (a) et accompli (u)."
+},
+{
+"akkadien": "",
+"translitteration": "ṣabātum > iṣbat",
+"traduction": "",
+"explication": "Classe a."
+},
+{
+"akkadien": "",
+"translitteration": "šarāqum > išriq",
+"traduction": "",
+"explication": "Classe i."
+},
+{
+"akkadien": "",
+"translitteration": "maqātum > imqut",
+"traduction": "",
+"explication": "Classe u."
+}
+],
+"remarques": [],
+"a_retenir": [
+"La voyelle thématique (entre C2 et C3) s'identifie à l'accompli et à l'impératif du thème G.",
+"4 classes vocaliques : a/u (iparras/iprus), a (iṣbat), i (išriq), u (imqut)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "V. Préfixes/Suffixes personnels aux thèmes G, D, Š et N",
+"sections": [
+{
+"titre": "Tableaux des affixes personnels et emploi des pronoms sujets",
+"fiches": [
+{
+"titre": "Préfixes et suffixes personnels (série i-/a- vs série u-)",
+"pages_source": "4 (PDF p. 19)",
+"notions": [
+{
+"titre": "Série 1 : Thèmes G, Gt, Gtan, N, Nt et Ntan",
+"contenu": "Singulier :\n- 3m : i-...\n- 3f : i- / ta-...\n- 2m : ta-...\n- 2f : ta-...-ī\n- 1 : a-...\n\nPluriel :\n- 3m : i-...-ū\n- 3f : i-...-ā\n- 2m/f : ta-...-ā\n- 1 : ni-..."
+},
+{
+"titre": "Série 2 : Thèmes D, Dt, Dtan, Š, Št et Štan",
+"contenu": "Singulier :\n- 3m : u-...\n- 3f : u- / tu-...\n- 2m : tu-...\n- 2f : tu-...-ī\n- 1 : u-...\n\nPluriel :\n- 3m : u-...-ū\n- 3f : u-...-ā\n- 2m/f : tu-...-ā\n- 1 : nu-..."
+},
+{
+"titre": "Expression du sujet pronominal",
+"contenu": "Le sujet pronominal est toujours inclus dans le préfixe verbal. Lorsque des pronoms personnels indépendants sont employés en plus du verbe, ils servent à marquer l'emphase, qu'il convient de rendre dans la traduction."
+}
+],
+"vocabulaire": [],
+"exemples": [],
+"remarques": [
+"Dans le tableau original de la série 2 (p. 4 / PDF p. 19), la voyelle u- de 3m sg., 1 sg., 3m pl. et 3f pl. est partiellement effacée à l'impression (« -... », « -...-ū »), mais confirmée par tu-/nu- et par la section I du cours."
+],
+"a_retenir": [
+"Thèmes G et N (et leurs dérivés) : préfixes en i- / ta- / a- / ni-.",
+"Thèmes D et Š (et leurs dérivés) : préfixes en u- / tu- / u- / nu-.",
+"Suffixes de personne identiques pour tous les thèmes : 2f sg. -ī ; 3m pl. -ū ; 3f pl. -ā ; 2m/f pl. -ā.",
+"Le pronom personnel indépendant avec un verbe marque l'emphase."
+]
+}
+]
+}
+]
+},
+{
+"titre": "VI. Ordre des mots",
+"sections": [
+{
+"titre": "Syntaxe de la proposition verbale",
+"fiches": [
+{
+"titre": "Place du verbe dans la phrase akkadienne",
+"pages_source": "4 (PDF p. 19)",
+"notions": [
+{
+"titre": "Ordre SOV ou OSV",
+"contenu": "L'ordre des mots dans la phrase verbale akkadienne est Sujet – Objet – Verbe (SOV) ou Objet – Sujet – Verbe (OSV) : le verbe se place toujours à la fin de la proposition."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "awātum",
+"traduction": "cas, affaire",
+"categorie": "substantif féminin",
+"remarque": "Apparaît à l'accusatif singulier awātam dans l'exemple"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "šarrum awātam iprus / awātam šarrum iprus",
+"traduction": "le roi a tranché le cas / l'affaire",
+"explication": "Ordre SOV ou OSV avec verbe (iprus) rejeté en fin de phrase."
+}
+],
+"remarques": [],
+"a_retenir": [
+"Dans la phrase verbale akkadienne, le verbe est toujours à la fin (ordre SOV ou OSV)."
+]
+}
+]
+}
+]
+}
+]
+}

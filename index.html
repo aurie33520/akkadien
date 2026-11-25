@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Fiches d’akkadien</title>
+  <!-- Police pour les signes cunéiformes (facultatif : sans connexion, le navigateur utilise une police du système) -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Noto+Sans+Cuneiform&display=swap">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header>
+    <button id="btn-liste" class="btn" type="button" hidden>☰ Liste</button>
+    <h1 id="titre-app">Fiches d’akkadien</h1>
+    <button id="btn-import" class="btn" type="button" hidden>Importer</button>
+  </header>
+
+  <!-- Écran d'importation -->
+  <section id="import">
+    <h2>Importer des fiches</h2>
+    <p>Choisissez le fichier JSON produit par l’IA, ou collez son contenu ci-dessous. Rien n’est conservé après la fermeture de la page.</p>
+
+    <div id="fichiers-dossier"></div>
+
+    <label class="btn principal" for="fichier">Choisir un fichier JSON</label>
+    <input id="fichier" type="file" accept=".json,application/json" hidden>
+
+    <p class="ou">ou</p>
+    <textarea id="texte-colle" rows="8" placeholder="Collez ici le contenu JSON…" spellcheck="false"></textarea>
+    <div class="actions">
+      <button id="btn-coller" class="btn" type="button">Afficher le texte collé</button>
+      <button id="btn-annuler" class="btn" type="button" hidden>Revenir aux fiches</button>
+    </div>
+    <p id="erreur" role="alert"></p>
+  </section>
+
+  <!-- Écran de lecture -->
+  <div id="lecteur" hidden>
+    <nav id="nav" aria-label="Sections du cours"></nav>
+    <main id="fiche"></main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

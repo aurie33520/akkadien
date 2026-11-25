@@ -1,0 +1,120 @@
+/* ---------- Couleurs (modifiez ici pour changer l'apparence) ---------- */
+:root {
+  --fond: #f2f4f7;
+  --carte: #ffffff;
+  --texte: #1f2630;
+  --doux: #5d6877;
+  --accent: #284b8f;       /* bleu lapis-lazuli */
+  --bord: #d9dee6;
+  --regle: #e9effa;
+  --note: #fbf3dc;
+  --attention: #fbe9e7;
+  --police-texte: Georgia, "Times New Roman", serif;
+  --police-ui: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --police-cunei: "Noto Sans Cuneiform", "Segoe UI Historic", "Noto Sans", sans-serif;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fond: #161a20; --carte: #1f252d; --texte: #e6e9ee; --doux: #9aa5b4;
+    --accent: #8fb0f0; --bord: #343c48; --regle: #202c42; --note: #36301d; --attention: #3b2625;
+  }
+}
+
+* { box-sizing: border-box; }
+[hidden] { display: none !important; }
+body { margin: 0; background: var(--fond); color: var(--texte); font-family: var(--police-texte); line-height: 1.6; }
+
+/* ---------- En-tête ---------- */
+header {
+  position: sticky; top: 0; z-index: 20; height: 56px;
+  display: flex; align-items: center; gap: 12px; padding: 0 16px;
+  background: var(--carte); border-bottom: 1px solid var(--bord); font-family: var(--police-ui);
+}
+header h1 { flex: 1; margin: 0; font-size: 1.05rem; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+
+.btn {
+  font: 500 .9rem var(--police-ui); color: var(--accent); background: transparent;
+  border: 1px solid var(--accent); border-radius: 6px; padding: 7px 14px; cursor: pointer; display: inline-block;
+}
+.btn:hover:not(:disabled) { background: var(--regle); }
+.btn:disabled { opacity: .4; cursor: default; }
+.btn:focus-visible, .lien-fiche:focus-visible, summary:focus-visible { outline: 3px solid var(--accent); outline-offset: 2px; }
+.btn.principal { background: var(--accent); color: var(--carte); }
+.btn.principal:hover { background: var(--accent); opacity: .9; }
+
+/* ---------- Importation ---------- */
+#import { max-width: 640px; margin: 32px auto; padding: 0 16px; font-family: var(--police-ui); }
+#import h2 { margin-top: 0; }
+#import textarea { width: 100%; font: .85rem ui-monospace, Consolas, monospace; padding: 10px; border: 1px solid var(--bord); border-radius: 6px; background: var(--carte); color: var(--texte); }
+.ou { text-align: center; color: var(--doux); margin: 14px 0 8px; }
+.actions { display: flex; gap: 10px; margin-top: 10px; flex-wrap: wrap; }
+#erreur { color: #b3261e; font-weight: 600; }
+@media (prefers-color-scheme: dark) { #erreur { color: #ff8a80; } }
+
+/* ---------- Mise en page de lecture ---------- */
+#lecteur { display: grid; grid-template-columns: 300px 1fr; }
+#nav {
+  position: sticky; top: 56px; height: calc(100vh - 56px); overflow-y: auto;
+  padding: 12px; background: var(--carte); border-right: 1px solid var(--bord); font-family: var(--police-ui); font-size: .92rem;
+}
+#nav details { margin: 2px 0; }
+#nav details details { margin-left: 12px; border-left: 1px solid var(--bord); padding-left: 8px; }
+#nav summary { cursor: pointer; font-weight: 600; padding: 5px 4px; }
+.lien-fiche {
+  display: block; width: 100%; text-align: left; font: inherit; color: var(--texte);
+  background: none; border: 0; border-left: 3px solid transparent; padding: 5px 8px; cursor: pointer;
+}
+.lien-fiche:hover { background: var(--regle); }
+.lien-fiche.actif { border-left-color: var(--accent); background: var(--regle); font-weight: 600; }
+
+#fiche { padding: 24px 20px 0; max-width: 820px; width: 100%; margin: 0 auto; min-width: 0; }
+.fil { margin: 0; color: var(--doux); font: .85rem var(--police-ui); }
+#fiche h2 { margin: .2em 0 .1em; font-size: 1.8rem; line-height: 1.2; }
+.source { margin: 0 0 1rem; color: var(--doux); font: .85rem var(--police-ui); }
+.resume { font-size: 1.05rem; }
+.bloc { margin: 1.8rem 0; }
+.bloc > h3 { margin: 0 0 .6rem; font: 600 1.1rem var(--police-ui); color: var(--accent); }
+
+/* ---------- Types de contenu ---------- */
+.carte { background: var(--carte); border: 1px solid var(--bord); border-radius: 8px; padding: 12px 16px; margin-bottom: 10px; }
+.carte h4 { margin: 0 0 .3rem; font-family: var(--police-ui); font-size: 1rem; }
+.carte p { margin: 0; white-space: pre-line; }
+.regle { background: var(--regle); border-left: 4px solid var(--accent); }
+.regle.important { border-left-width: 8px; }
+.exemple { border-left: 4px solid var(--doux); }
+.exemple p + p { margin-top: .3rem; }
+.cunei { font-family: var(--police-cunei); font-size: 1.6rem; }
+.translit { font-style: italic; font-size: 1.15rem; }
+.trad { font-weight: 600; }
+.expl { color: var(--doux); font-size: .95rem; }
+.note, .attention { border-radius: 6px; padding: 10px 14px; margin-bottom: 8px; white-space: pre-line; }
+.note { background: var(--note); border-left: 4px solid #c9a227; }
+.attention { background: var(--attention); border-left: 4px solid #c0392b; }
+
+.defile { overflow-x: auto; }
+table { border-collapse: collapse; min-width: 100%; margin-top: 4px; }
+th, td { border: 1px solid var(--bord); padding: 6px 10px; text-align: left; white-space: nowrap; }
+th { background: var(--regle); font-family: var(--police-ui); font-size: .9rem; }
+
+.vocab { display: grid; grid-template-columns: 1fr 1fr; gap: 2px 16px; padding: 8px 4px; border-bottom: 1px solid var(--bord); }
+.vocab .akk { font-style: italic; font-weight: 600; }
+.vocab .rem { grid-column: 1 / -1; color: var(--doux); font-size: .9rem; }
+.signe { display: flex; gap: 16px; align-items: center; }
+.signe .cunei { font-size: 2.6rem; line-height: 1; }
+
+/* ---------- Barre précédent / suivant ---------- */
+.barre {
+  position: sticky; bottom: 0; display: flex; justify-content: space-between; align-items: center; gap: 8px;
+  margin: 2rem -20px 0; padding: 10px 20px; background: var(--carte); border-top: 1px solid var(--bord); font-family: var(--police-ui);
+}
+.compteur { color: var(--doux); font-size: .85rem; }
+
+/* ---------- Téléphone ---------- */
+@media (min-width: 801px) { #btn-liste { display: none; } }
+@media (max-width: 800px) {
+  #lecteur { display: block; }
+  #nav { position: fixed; top: 56px; bottom: 0; left: 0; width: 88%; max-width: 340px; height: auto; z-index: 15;
+         transform: translateX(-100%); transition: transform .2s; }
+  #nav.ouvert { transform: none; box-shadow: 4px 0 16px rgba(0,0,0,.25); }
+  #fiche h2 { font-size: 1.5rem; }
+}

@@ -1,0 +1,754 @@
+{
+"titre_cours": "Séance 7. Le statif, les pronoms indépendants",
+"source": "ACRL_Akkadien I_Séance 7_Statif et pronoms.pdf",
+"sections": [
+{
+"titre": "I. Statif",
+"sections": [
+{
+"titre": "1) Morphologie et usages & 2) Paradigme",
+"fiches": [
+{
+"titre": "Définition, afformantes, usages syntaxiques et paradigme du statif",
+"pages_source": "1-2 (PDF p. 31-32)",
+"notions": [
+{
+"titre": "Morphologie et valeur du statif (permansif)",
+"contenu": "Appelé aussi parfois permansif, le statif exprime un état atemporel ou l'effet durable d'une action ; c'est le temps de la description (privilégié dans les listes « scientifiques » : astronomie, médecine, mathématiques, traités divinatoires). C'est une sorte d'adjectif verbal prédicatif conjugué. La 3e personne du masculin singulier (PaRiS) est sans désinence et est identique à l'état absolu ; aux autres personnes, les suffixes correspondent aux formes abrégées du pronom personnel.\n\nAfformantes du statif :\n- Singulier : 3m ...-Ø | 3f ...-at | 2m ...-āta | 2f ...-āti | 1c ...-āku\n- Duel : 3m ...-ā | 3f ...-ā\n- Pluriel : 3m ...-ū | 3f ...-ā | 2m ...-ātunu | 2f ...-ātina | 1c ...-ānu"
+},
+{
+"titre": "Comportement verbal et bases lexicales du statif",
+"contenu": "Neutre vis-à-vis du temps, le statif se comporte néanmoins plus comme un verbe que comme un nom : il peut prendre des désinences modales, avoir un complément d'objet direct ou indirect, et se place à la fin de la phrase.\n1) Verbes transitifs : généralement à sens passif (action terminée dont le résultat se poursuit : ālu šakin, ṣabit), mais parfois employés avec un objet direct tout en exprimant un état (ahiz, lamdāku).\n2) Verbes d'état dérivés d'adjectifs : damāqu > damiq (« il est bon »).\n3) Verbes et substantifs de type e (racine contenant un e) : harmonisation vocalique transformant le ā des afformantes en ē : šebēru (« casser ») > sg. šeber, šebret, šebrēta, šebrēti, šebrēku ; pl. šebrū, šebrā, šebrētunu, šebrētina, šebrēnu (et bēlēku < *bēl-āku).\n4) Substantifs (emploi marginal, presque uniquement pour les personnes avec quelques exceptions, « ... est X ») : possible uniquement si le nom n'a ni qualificatif ni complément (Hammurapi šar vs Hammurapi šarrum dannum / Hammurapi šar mātim).\n5) Adjectifs : qarrād-āku, rabâta.\n6) Participes (à un moindre degré) : nādināku (< nādinum)."
+},
+{
+"titre": "Paradigme complet du statif (damāqu et parāsu)",
+"contenu": "Format : Personne | damāqu | parāsu :\n- Sg. 3m : damiq | paris\n- Sg. 3f : damqat | parsat\n- Sg. 2m : damqāta | parsāta\n- Sg. 2f : damqāti | parsāti\n- Sg. 1 : damqāku | parsāku\n- Pl. 3m : damqū | parsū\n- Pl. 3f : damqā | parsā\n- Pl. 2m : damqātunu | parsātunu\n- Pl. 2f : damqātina | parsātina\n- Pl. 1 : damqānu | parsānu"
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "ālu",
+"traduction": "ville",
+"categorie": "substantif",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "šakānu",
+"traduction": "placer",
+"categorie": "verbe",
+"remarque": "Statif 3ms : šakin"
+},
+{
+"akkadien": "",
+"translitteration": "ṣabātu",
+"traduction": "saisir",
+"categorie": "verbe",
+"remarque": "Statif 3ms : ṣabit « il est en captivité »"
+},
+{
+"akkadien": "",
+"translitteration": "ahāzu",
+"traduction": "",
+"categorie": "verbe",
+"remarque": "Statif 3ms : ahiz « il (dé)tient » (orthographié « (dé)teint » dans le PDF)"
+},
+{
+"akkadien": "",
+"translitteration": "lamādu",
+"traduction": "",
+"categorie": "verbe",
+"remarque": "Statif 1cs : lamdāku « je sais »"
+},
+{
+"akkadien": "",
+"translitteration": "šebēru",
+"traduction": "casser",
+"categorie": "verbe (type e)",
+"remarque": "Harmonisation vocalique en ē aux afformantes du statif"
+},
+{
+"akkadien": "",
+"translitteration": "rīmum",
+"traduction": "taureau sauvage",
+"categorie": "substantif",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "labbum",
+"traduction": "lion",
+"categorie": "substantif",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "nādinum",
+"traduction": "",
+"categorie": "participe",
+"remarque": "Statif 1cs : nādināku « je suis celui qui donne »"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "ālu šakin",
+"traduction": "la ville est/était située",
+"explication": "Statif 3ms à sens passif de šakānu « placer »."
+},
+{
+"akkadien": "",
+"translitteration": "ṣabit",
+"traduction": "il est en captivité",
+"explication": "Statif 3ms à sens passif de ṣabātu « saisir »."
+},
+{
+"akkadien": "",
+"translitteration": "ahiz ; lamdāku",
+"traduction": "il (dé)tient ; je sais",
+"explication": "Statifs de verbes transitifs conservant une valeur active."
+},
+{
+"akkadien": "",
+"translitteration": "šarraq ; bēlēku (*bēl-āku)",
+"traduction": "il est voleur ; je suis seigneur",
+"explication": "Statifs formés sur des substantifs (avec harmonisation vocalique en ē pour bēlēku)."
+},
+{
+"akkadien": "",
+"translitteration": "ina šamê rīmāku ina erṣetim labbāku",
+"traduction": "dans le ciel, je suis le taureau sauvage, sur la terre, je suis le lion !",
+"explication": "Erra I, l. 109 : statifs 1re pers. sing. (-āku) sur rīmum et labbum."
+},
+{
+"akkadien": "",
+"translitteration": "sinništum damqat vs sinništum damiqtum",
+"traduction": "la femme est bonne vs la femme bonne",
+"explication": "Statif 3fs prédicatif (damqat) opposé à l'adjectif épithète (damiqtum)."
+},
+{
+"akkadien": "",
+"translitteration": "Hammurapi šar / Hammurapi šarrum dannum / Hammurapi šar mātim",
+"traduction": "Hammurabi est roi / Hammurabi est un roi fort / Hammurabi est le roi du pays",
+"explication": "Le statif nominal (šar) n'est employé que si le nom est sans qualificatif ni complément."
+},
+{
+"akkadien": "",
+"translitteration": "qarrād-āku ; rabâta ; nādināku",
+"traduction": "je suis un héros ; tu es grand ; je suis celui qui donne",
+"explication": "Statifs formés sur des adjectifs et sur un participe."
+}
+],
+"remarques": [
+"Dans le tableau du paradigme p. 2 (PDF p. 32), les voyelles longues finales de Pl. 3m damqu et Pl. 3f damqa sont notées sans macron dans la colonne damāqu, mais avec macron dans la colonne parāsu (parsū, parsā) et dans le tableau des afformantes p. 1 (-ū, -ā)."
+],
+"a_retenir": [
+"Statif = état atemporel ou résultat durable d'une action ; se comporte syntaxiquement comme un verbe (fin de phrase, peut avoir un COD ou des désinences modales).",
+"3e masc. sing. sans désinence (PaRiS = état absolu) ; les autres personnes prennent les afformantes (-at, -āta, -āti, -āku, -ū, -ā, -ātunu, -ātina, -ānu), colorées en -ē- dans les racines de type e."
+]
+}
+]
+}
+]
+},
+{
+"titre": "II. Les pronoms personnels indépendants",
+"sections": [
+{
+"titre": "Déclinaison et emplois des pronoms personnels indépendants",
+"fiches": [
+{
+"titre": "Tableau des pronoms indépendants (nominatif, génitif/accusatif, datif) et syntaxe",
+"pages_source": "3 (PDF p. 33)",
+"notions": [
+{
+"titre": "Tableau des pronoms personnels indépendants",
+"contenu": "Contrairement au nom, le pronom personnel indépendant distingue trois cas : nominatif, génitif/accusatif et datif.\n\nFormat : Personne | Nominatif | Génitif/Accusatif | Datif | Sens :\n- 1sg : anāku | yâti | yâšim | « je, moi »\n- 2m : atta | kâti (kâta) | kâšim | « tu, toi »\n- 2f : atti | kâti | kâšim | « tu, toi » (fém.)\n- 3m : šū | šuāti, šuātu, šâti/u | šuāšim, šâšim | « il, lui »\n- 3f : šī | šiāti, šuāti, šâti | šiāšim, šuāšim, šâšim | « elle, lui »\n- 1pl : nīnu | niāti | niāšim | « nous »\n- 2m : attunu | kunūti | kunūšim | « vous »\n- 2f : attina | kināti | *kināšim | « vous » (fém.)\n- 3m : šunu | šunūti | šunūšim | « ils, eux »\n- 3f : šina | šināti | *šināšim | « elles »"
+},
+{
+"titre": "Emplois syntaxiques des pronoms indépendants",
+"contenu": "1) Emphase sur le sujet : le sujet étant déjà inclus dans les afformantes verbales, la présence d'un pronom indépendant marque l'emphase (« moi-même, toi-même, etc. »).\n2) Valeur anaphorique/démonstrative : šū et šī peuvent se placer après un nom, comme un adjectif (« cet homme, l'homme susmentionné »).\n3) Propositions nominales et prépositions : ils servent de sujet dans les propositions nominales (souvent en fin de proposition) ou s'emploient après des prépositions (ex. kīma « comme » + génitif/accusatif)."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "kīma",
+"traduction": "comme",
+"categorie": "préposition",
+"remarque": "Suivie du cas génitif/accusatif du pronom (kīma yâti)"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "awīlum šū",
+"traduction": "cet homme, l'homme susmentionné",
+"explication": "Pronom indépendant 3ms šū postposé au nom comme un adjectif."
+},
+{
+"akkadien": "",
+"translitteration": "šar mātim atta",
+"traduction": "tu es le roi du pays (litt. « roi du pays, toi »)",
+"explication": "Proposition nominale avec pronom personnel indépendant."
+},
+{
+"akkadien": "",
+"translitteration": "šarrī atta",
+"traduction": "tu es mon roi (litt. « mon roi, toi »)",
+"explication": "Proposition nominale avec pronom personnel indépendant."
+},
+{
+"akkadien": "",
+"translitteration": "kīma yâti",
+"traduction": "comme moi",
+"explication": "Préposition kīma suivie du pronom indépendant 1sg au génitif/accusatif (yâti)."
+}
+],
+"remarques": [
+"Les formes *kināšim (2f pl. datif) et *šināšim (3f pl. datif) sont précédées d'un astérisque dans le tableau du cours (formes reconstruites/non attestées)."
+],
+"a_retenir": [
+"Le pronom personnel indépendant distingue le datif (-šim) en plus du nominatif et du génitif/accusatif (-ti).",
+"Avec un verbe, il marque l'emphase ; postposé à un nom, šū/šī signifie « ce / susmentionné »."
+]
+}
+]
+}
+]
+},
+{
+"titre": "III. Les pronoms suffixés au verbe",
+"sections": [
+{
+"titre": "Paradigme, règles phonétiques et ordre des suffixes",
+"fiches": [
+{
+"titre": "Pronoms suffixes accusatifs et datifs au verbe : tableau, assimilations et cumul",
+"pages_source": "3-4 (PDF p. 33-34)",
+"notions": [
+{
+"titre": "Fonction et place des pronoms suffixes verbaux",
+"contenu": "Les pronoms suffixés au verbe marquent l'accusatif (COD) et le datif (COI). Ils peuvent s'attacher à toutes les formes du verbe, y compris l'infinitif, et se placent après les suffixes personnels marquant le sujet (ex. : iddin > iddinšu ; iddinū > iddinūšu)."
+},
+{
+"titre": "Tableau des pronoms suffixes au verbe (Accusatif et Datif)",
+"contenu": "Format : Personne | Accusatif | Datif (simple / après -am) :\n- Singulier 1 : -ni, -anni | -am, -m, -nim\n- Singulier 2ms : -ka | -kum | -akkum (< *am+kum)\n- Singulier 2fs : -ki | -kim | -akkim (< *am+kim)\n- Singulier 3ms : -šu / -su | -šum / -sum | -aššum (< *am+šum)\n- Singulier 3fs : -ši / -si | -šim / -sim | -aššim (< *am+šim)\n- Pluriel 1 : -niāti | -niāšim | -anniāšim (< *am+niāšim)\n- Pluriel 2mp : -kunūti | -kunūšim | -akkunūšim (< *am+kunūšim)\n- Pluriel 2fp : -kināti | -kināšim | -akkināšim (< *am+kināšim)\n- Pluriel 3mp : -šunūti / -sunūti | -šunūšim / -sunūšim | -aššunūšim (< *am+šunūšim)\n- Pluriel 3fp : -šināti / -sināti | -šināšim / -sināšim | -aššināšim (< *am+šināšim)"
+},
+{
+"titre": "Règles phonétiques et ordre en cas de double suffixe",
+"contenu": "1) Assimilation de š > s : les suffixes commençant par š deviennent s (et forment -ss-) après une dentale ou une sifflante finale du radical (ipqissu < *ipqid+šu).\n2) Élision de la voyelle initiale de -am : après une désinence vocalique, -am devient -m (tašrukīm < tašrukī+am).\n3) Chute de la mimation : la mimation des suffixes datifs (-kum, -kim, etc.) peut disparaître (ku(m), ki(m)), rendant parfois difficile la distinction avec l'accusatif aux 2e et 1er millénaires av. n. è.\n4) Présence de -am et assimilation de m : -am précède habituellement le suffixe accusatif 1sg (iṣbatanni < *iṣbat+am+ni) et les suffixes datifs (iṭrudaššum < *iṭrud+am+šum), le m s'assimilant à la consonne suivante.\n5) Cumul de deux pronoms suffixes : lorsqu'il y a deux référents, le suffixe datif précède toujours le suffixe accusatif."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "nadānu",
+"traduction": "donner",
+"categorie": "verbe",
+"remarque": "Accompli 3ms : iddin"
+},
+{
+"akkadien": "",
+"translitteration": "paqādu",
+"traduction": "",
+"categorie": "verbe",
+"remarque": "Accompli 3ms + -šu : ipqissu « il s'occupa de lui »"
+},
+{
+"akkadien": "",
+"translitteration": "šarāku",
+"traduction": "offrir, donner",
+"categorie": "verbe",
+"remarque": ""
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "iddin / iddinšu / iddinū / iddinūšu",
+"traduction": "Il a donné / il l'a donné / Ils donnèrent / Ils le donnèrent",
+"explication": "Ajout du suffixe accusatif 3ms -šu après la forme verbale (et après la désinence de pluriel -ū)."
+},
+{
+"akkadien": "",
+"translitteration": "išpuršu vs ipqissu (< *ipqid+šu)",
+"traduction": "il l'envoya vs il s'occupa de lui",
+"explication": "Assimilation dentale + š > ss dans ipqissu (paqādu)."
+},
+{
+"akkadien": "",
+"translitteration": "išrukam ; tašrukīm (tašrukī+am)",
+"traduction": "il m'a donné ; tu (f.) m'as donné",
+"explication": "Suffixe datif 1sg -am après consonne, réduit à -m après voyelle longue."
+},
+{
+"akkadien": "",
+"translitteration": "iṣbatanni (< *iṣbat+am+ni) ; iṭrudaššum (< *iṭrud+am+šum)",
+"traduction": "il m'a saisi ; il lui a envoyé",
+"explication": "Insertion de -am devant -ni et devant les suffixes datifs, avec assimilation régressive du m."
+},
+{
+"akkadien": "",
+"translitteration": "išrukaššušši : išruk+am+šum[DATIF3msg]+ši[ACCUSATIF3fsg]",
+"traduction": "il la lui a offerte (litt. « il a offert à lui cela (féminin) »)",
+"explication": "Ordre des suffixes : datif avant accusatif, avec assimilation du m final du datif à la consonne initiale de l'accusatif."
+},
+{
+"akkadien": "",
+"translitteration": "ašrukaššiššu : ašruk+am+šim[DATIF3fsg]+šu[ACCUSATIF3msg]",
+"traduction": "je le lui ai offert (litt. « j'ai offert cela à elle »)",
+"explication": "Ordre des suffixes : datif 3fs (-šim) avant accusatif 3ms (-šu)."
+},
+{
+"akkadien": "",
+"translitteration": "ašrukakkiššu : ašruk+am+kim[DATIF2fsg]+šu[ACCUSATIF3msg]",
+"traduction": "je te l'ai offert (litt. « j'ai offert cela à toi »)",
+"explication": "Ordre des suffixes : datif 2e pers. (-kim, noté DATIF2msg par coquille dans le PDF) avant accusatif 3ms (-šu)."
+}
+],
+"remarques": [
+"Dans l'analyse de ašrukakkiššu p. 4 (PDF p. 34), le PDF écrit « kim[DATIF2msg] » alors que -kim correspond à la 2e personne féminin singulier dans le tableau juste au-dessus."
+],
+"a_retenir": [
+"Les suffixes verbaux distinguent l'accusatif (-ni, -ka, -ki, -šu, -ši...) et le datif (-am/-m/-nim, -kum, -kim, -šum, -šim...).",
+"En cas de double pronom suffixé au verbe : toujours DATIF + ACCUSATIF (ex. : išrukaššušši)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "IV. Le ventif",
+"sections": [
+{
+"titre": "Morphologie et valeurs du ventif",
+"fiches": [
+{
+"titre": "Désinences du ventif (-am, -m, -nim) et évolution sémantique",
+"pages_source": "4-5 (PDF p. 34-35)",
+"notions": [
+{
+"titre": "Morphologie et valeur spatiale originelle",
+"contenu": "Le ventif est une forme spéciale du verbe employant les suffixes datifs de la 1re personne du singulier : -am (après consonne), -m (après voyelle longue -ī/-ā), -nim (après les désinences pluriel -ū/-ā). Il marque à l'origine le mouvement vers le locuteur ou le destinataire (« ici, vers moi »), principalement avec les verbes de mouvement et d'envoi (ex. : alākum « aller » + ventif = « venir » ; našûm « porter » + ventif = « apporter »)."
+},
+{
+"titre": "Évolution et emploi en prose",
+"contenu": "Au fil des siècles, le sens directionnel du ventif s'est affaibli et n'a souvent plus d'incidence particulière sur la traduction. En prose, le ventif peut aussi apparaître sur des verbes qui ne sont pas de mouvement lorsqu'ils portent l'enclitique -ma."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "alākum",
+"traduction": "aller (avec ventif : venir)",
+"categorie": "verbe",
+"remarque": ""
+},
+{
+"akkadien": "",
+"translitteration": "našûm",
+"traduction": "porter (avec ventif : apporter)",
+"categorie": "verbe",
+"remarque": "Orthographié « nâšum » dans le document"
+},
+{
+"akkadien": "",
+"translitteration": "kašādu",
+"traduction": "atteindre, arriver à",
+"categorie": "verbe",
+"remarque": ""
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "illik vs illikam (< *illik+am)",
+"traduction": "il alla vs il vint, il alla vers moi",
+"explication": "Ventif -am sur la 3ms de alāku (coquille « *illim+am » dans le PDF)."
+},
+{
+"akkadien": "",
+"translitteration": "tallikīm (< *tallikī+am)",
+"traduction": "tu (fem.) vins, tu vins vers moi",
+"explication": "Ventif -m après la finale vocalique -ī de la 2fs."
+},
+{
+"akkadien": "",
+"translitteration": "ana Bābilim ikšudūnim (< *ikšudū+nim)",
+"traduction": "ils arrivèrent à Babylone (mon lieu de séjour, le lieu d'où je parle)",
+"explication": "Ventif -nim après la finale pluriel -ū."
+}
+],
+"remarques": [
+"Coquilles dans le texte du PDF p. 5 (PDF p. 35) : « nâšum » pour našûm et « <*illim+am » pour <*illik+am."
+],
+"a_retenir": [
+"Désinences du ventif : -am (après consonne), -m (après -ī), -nim (après -ū/-ā).",
+"Indique à l'origine un mouvement vers le locuteur/destinataire (alākum « aller » > illikam « il vint »)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "V. Le subordinatif / subjonctif",
+"sections": [
+{
+"titre": "La désinence -u des propositions subordonnées et l'exception de šumma",
+"fiches": [
+{
+"titre": "Formation du subordinatif (-u), compatibilité avec les suffixes et règle après šumma",
+"pages_source": "5 (PDF p. 35)",
+"notions": [
+{
+"titre": "Emploi et morphologie du subordinatif / subjonctif (-u)",
+"contenu": "Le subordinatif (ou subjonctif) est marqué par la désinence -u ajoutée à la toute fin du verbe dans les propositions subordonnées. Il apparaît après les conjonctions de subordination / relatifs comme ša (« qui/que »), aššum (« au sujet de, concernant le fait que, parce que... »), lāma (« avant que... »), warki (« après que... »), inūma (« lorsque... »), ou directement après un substantif à l'état construit (relative asyndétique)."
+},
+{
+"titre": "Compatibilité avec les désinences verbales et pronoms suffixes",
+"contenu": "1) La désinence -u n'apparaît pas si le verbe porte déjà une terminaison vocalique personnelle (-ī, -ū, -ā) ou le ventif (-am, -m, -nim).\n2) En revanche, le -u du subordinatif se maintient devant les pronoms suffixes (kasap iddinušum, awīl imhaṣūšu)."
+},
+{
+"titre": "Règle absolue avec šumma (« si »)",
+"contenu": "Après šumma (« si »), on n'emploie JAMAIS le subjonctif (-u). šumma est généralement suivi d'un verbe à l'accompli (mais pas toujours) et peut s'employer avec la négation lā."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "ša",
+"traduction": "qui, que",
+"categorie": "pronom relatif / conjonction",
+"remarque": "Entraîne le subordinatif -u"
+},
+{
+"akkadien": "",
+"translitteration": "aššum",
+"traduction": "au sujet de, concernant le fait que, parce que",
+"categorie": "conjonction de subordination",
+"remarque": "Entraîne le subordinatif -u"
+},
+{
+"akkadien": "",
+"translitteration": "lāma",
+"traduction": "avant que",
+"categorie": "conjonction de subordination",
+"remarque": "Entraîne le subordinatif -u"
+},
+{
+"akkadien": "",
+"translitteration": "warki",
+"traduction": "après que",
+"categorie": "conjonction de subordination",
+"remarque": "Entraîne le subordinatif -u"
+},
+{
+"akkadien": "",
+"translitteration": "inūma",
+"traduction": "lorsque, quand",
+"categorie": "conjonction de subordination",
+"remarque": "Entraîne le subordinatif -u"
+},
+{
+"akkadien": "",
+"translitteration": "šumma",
+"traduction": "si",
+"categorie": "conjonction conditionnelle",
+"remarque": "JAMAIS suivi du subjonctif -u"
+},
+{
+"akkadien": "",
+"translitteration": "leqû",
+"traduction": "prendre",
+"categorie": "verbe",
+"remarque": "Parfait G 3ms : ilteqe"
+},
+{
+"akkadien": "",
+"translitteration": "ebēru",
+"traduction": "accuser",
+"categorie": "verbe",
+"remarque": "Accompli D 3ms : ubbir"
+},
+{
+"akkadien": "",
+"translitteration": "nēmelum",
+"traduction": "profit",
+"categorie": "substantif",
+"remarque": "Accusatif : nēmelam"
+},
+{
+"akkadien": "",
+"translitteration": "amāru",
+"traduction": "voir",
+"categorie": "verbe",
+"remarque": "Parfait G 3ms : ītamar"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "dayyānum iprus vs dayyānum ša iprusu",
+"traduction": "le juge a tranché (le cas) vs le juge qui a tranché le cas",
+"explication": "Ajout de -u au verbe de la proposition relative introduite par ša."
+},
+{
+"akkadien": "",
+"translitteration": "ṭuppum ša ašpuru / ṭuppi ašpuru",
+"traduction": "la tablette que j'ai envoyée",
+"explication": "Subordinatif -u après ša ou après un nom à l'état construit (ṭuppi)."
+},
+{
+"akkadien": "",
+"translitteration": "aššum tašpuru ; warki tašṭuru",
+"traduction": "concernant le fait que tu as envoyé ; après que tu eus écrit",
+"explication": "Subordinatif -u après les conjonctions aššum et warki."
+},
+{
+"akkadien": "",
+"translitteration": "inūma illiku vs inūma illikam",
+"traduction": "quand il alla vs quand il vint",
+"explication": "Absence du -u du subordinatif lorsque le verbe porte le ventif (-am)."
+},
+{
+"akkadien": "",
+"translitteration": "kasap iddinušum ; awīl imhaṣūšu",
+"traduction": "l'argent qu'il lui a donné ; l'homme qu'il a frappé",
+"explication": "Maintien du -u du subordinatif devant le pronom suffixe (-šum) ; absence de marque supplémentaire après une finale pluriel (-ū)."
+},
+{
+"akkadien": "",
+"translitteration": "šumma išriqma ilteqe",
+"traduction": "S'il a volé et pris",
+"explication": "šumma sans subjonctif (šarāqu accompli G 3ms + -ma ; leqû parfait G 3ms)."
+},
+{
+"akkadien": "",
+"translitteration": "šumma awīlum awīlam ubbirma",
+"traduction": "Si un homme a accusé un (autre) homme",
+"explication": "Début de la 1re loi du Code de Hammurabi : šumma + accompli D 3ms (ebēru) sans subjonctif."
+},
+{
+"akkadien": "",
+"translitteration": "šumma nēmelam lā ītamar",
+"traduction": "s'il n'a pas vu de profit",
+"explication": "šumma + négation lā + parfait G 3ms de amāru (sans subjonctif)."
+}
+],
+"remarques": [],
+"a_retenir": [
+"Subordinatif = désinence -u en fin de verbe dans les subordonnées (après ša, aššum, lāma, warki, inūma ou état construit).",
+"Le -u n'apparaît pas après une désinence vocalique (-ī, -ū, -ā) ou le ventif (-am/-m/-nim), mais reste devant un pronom suffixe (iddinušum).",
+"JAMAIS de subjonctif après šumma (« si »)."
+]
+}
+]
+}
+]
+},
+{
+"titre": "VI. La coordination de propositions & VII. La négation",
+"sections": [
+{
+"titre": "Coordination (asyndète, u, -ma) et négation (ul, lā)",
+"fiches": [
+{
+"titre": "Moyens de coordination et distinction entre les négations ul et lā",
+"pages_source": "5-6 (PDF p. 35-36)",
+"notions": [
+{
+"titre": "Les trois modes de coordination",
+"contenu": "1) Construction en asyndète : juxtaposition sans mot de liaison (le rapport logique se déduit du contexte).\n2) La particule u (notée avec le signe u3) : conjonction de coordination signifiant « et ».\n3) L'enclitique -ma : suffixé au verbe (après tous les éléments personnels), il sert à indiquer une proposition nominale, joue un rôle de conjonction de coordination entre deux propositions verbales en marquant une relation temporelle ou logique (« et/puis, lorsque... »), ou devient une particule emphatique lorsqu'il est affixé à un mot individuel."
+},
+{
+"titre": "Les deux négations : ul et lā",
+"contenu": "1) ul : exprime la négation dans les propositions déclaratives principales et dans les interrogatives qui ne contiennent pas de pronom, d'adjectif ou d'adverbe interrogatif.\n2) lā : exprime la négation dans les propositions subordonnées, dans les interrogatives contenant un mot interrogatif (pronom, adjectif, adverbe), dans les ordres (prohibitif), ainsi que devant des mots individuels."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "u",
+"traduction": "et",
+"categorie": "conjonction de coordination",
+"remarque": "Notée avec le signe u3"
+},
+{
+"akkadien": "",
+"translitteration": "-ma",
+"traduction": "et, puis (enclitique verbal) / même (emphatique)",
+"categorie": "particule enclitique",
+"remarque": "Implique une relation temporelle ou logique entre deux verbes"
+},
+{
+"akkadien": "",
+"translitteration": "ul",
+"traduction": "ne... pas",
+"categorie": "négation",
+"remarque": "Propositions principales déclaratives et interrogatives totales"
+},
+{
+"akkadien": "",
+"translitteration": "lā",
+"traduction": "ne... pas, non",
+"categorie": "négation",
+"remarque": "Subordonnées, interrogatives partielles, ordres, mots isolés"
+},
+{
+"akkadien": "",
+"translitteration": "še'um",
+"traduction": "orge",
+"categorie": "substantif",
+"remarque": "Accusatif : še'am"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "anāku-ma ; ina mūšim-ma",
+"traduction": "moi-même ; dans cette nuit-là",
+"explication": "Emploi emphatique de -ma affixé à un mot individuel."
+},
+{
+"akkadien": "",
+"translitteration": "illikma še'am aštariq",
+"traduction": "il partit et/puis, j'ai volé l'orge = lorsqu'il est parti, j'ai volé l'orge",
+"explication": "Coordination par -ma entre alāku (accompli G 3ms) et šarāqu (parfait G 1sg) avec lien temporel/logique."
+},
+{
+"akkadien": "",
+"translitteration": "ul allik ; ul šarrum šū",
+"traduction": "je ne suis pas allé / ne suis-je pas allé ? ; il n'est pas roi / n'est-il pas roi ?",
+"explication": "Négation ul en proposition déclarative ou interrogative sans mot interrogatif."
+},
+{
+"akkadien": "",
+"translitteration": "ammīnim lā illikam vs illikam ul illikam",
+"traduction": "pourquoi n'est-il pas venu ? vs il est venu ou non ?",
+"explication": "Opposition entre lā (interrogative avec mot interrogatif ammīnim) et ul (interrogative sans mot interrogatif)."
+}
+],
+"remarques": [],
+"a_retenir": [
+"u = « et » simple ; -ma (enclitique sur le verbe) = coordination avec lien logique/temporel (ou emphase sur un mot isolé).",
+"ul = négation des propositions principales ; lā = négation des subordonnées, interrogatives partielles, défenses et mots isolés."
+]
+}
+]
+}
+]
+},
+{
+"titre": "VIII. Les pronoms interrogatifs & IX. Les démonstratifs",
+"sections": [
+{
+"titre": "Interrogatifs et démonstratifs",
+"fiches": [
+{
+"titre": "Pronoms/adjectifs interrogatifs, interrogation par allongement vocalique et démonstratifs",
+"pages_source": "6-7 (PDF p. 36-37)",
+"notions": [
+{
+"titre": "Les pronoms et adjectifs interrogatifs",
+"contenu": "1) mannum (« qui ? ») : nominatif mannum, génitif mannim, accusatif mannam.\n2) mīnum (« quoi ? ») : nominatif mīnum, génitif mīnim, accusatif mīnam.\n3) ammīnim (« pourquoi ? ») : issu de *an(a) mīnim.\n4) Adjectif interrogatif ayyûm (« lequel, quoi ? ») : s'accorde avec le nom ou s'emploie indépendamment.\n5) Interrogation sans mot interrogatif : l'interrogation peut être marquée uniquement par l'allongement de la dernière syllabe du mot central (ex. : i-ṣa-ab-ba-tu-u2 pour iṣbatū)."
+},
+{
+"titre": "Les démonstratifs",
+"contenu": "Les pronoms/adjectifs démonstratifs sont annûm (« ce, celui », masc.) et annītum (« celle-ci, cette », fém.), qui suivent la déclinaison habituelle de l'adjectif et peuvent être employés comme épithètes (postposés) ou indépendamment.\nOn peut également employer avec valeur démonstrative le pronom personnel de 3e personne du singulier šū, šī ainsi que šuāti (« celle-ci, celui-ci »)."
+}
+],
+"vocabulaire": [
+{
+"akkadien": "",
+"translitteration": "mannum",
+"traduction": "qui ?",
+"categorie": "pronom interrogatif",
+"remarque": "Gén. mannim, acc. mannam"
+},
+{
+"akkadien": "",
+"translitteration": "mīnum",
+"traduction": "quoi ?",
+"categorie": "pronom interrogatif",
+"remarque": "Gén. mīnim, acc. mīnam"
+},
+{
+"akkadien": "",
+"translitteration": "ammīnim",
+"traduction": "pourquoi ?",
+"categorie": "adverbe interrogatif",
+"remarque": "< *an(a) mīnim"
+},
+{
+"akkadien": "",
+"translitteration": "ayyûm",
+"traduction": "lequel, quoi ?",
+"categorie": "adjectif / pronom interrogatif",
+"remarque": "Féminin génitif : ayyītim"
+},
+{
+"akkadien": "",
+"translitteration": "annûm / annītum",
+"traduction": "ce, celui / cette, celle-ci",
+"categorie": "démonstratif",
+"remarque": "Déclinaison de l'adjectif"
+},
+{
+"akkadien": "",
+"translitteration": "šemû",
+"traduction": "entendre",
+"categorie": "verbe",
+"remarque": "Infinitif au génitif + -šu : ina šemêšu"
+},
+{
+"akkadien": "",
+"translitteration": "qabû",
+"traduction": "dire",
+"categorie": "verbe",
+"remarque": "Accompli 3ms : iqbi"
+}
+],
+"exemples": [
+{
+"akkadien": "",
+"translitteration": "mannum illikam ; mannum šū ; mīnam taṣbat",
+"traduction": "qui est venu ? ; qui est-il ? ; qu'as-tu pris ?",
+"explication": "Emploi des pronoms interrogatifs mannum (nom.) et mīnam (acc.)."
+},
+{
+"akkadien": "",
+"translitteration": "ina ayyītim mātim ; ayyûm illikam",
+"traduction": "dans quel pays ? ; lequel/qui est venu ?",
+"explication": "ayyûm en fonction d'adjectif épithète (accordé au fém. gén. ayyītim) et en emploi indépendant."
+},
+{
+"akkadien": "",
+"translitteration": "Anu awātam annītam ina šemêšu",
+"traduction": "Anu, en entendant cette parole",
+"explication": "Démonstratif épithète accordé à l'acc. fém. sg. (awātam annītam) ; šemû infinitif G au génitif + suffixe -šu."
+},
+{
+"akkadien": "",
+"translitteration": "annītam iqbi",
+"traduction": "il a dit cela",
+"explication": "Emploi indépendant du démonstratif féminin à l'accusatif singulier."
+}
+],
+"remarques": [
+"Dans l'exemple d'interrogation par allongement final p. 7 (PDF p. 37), le document écrit « (i-ṣa-ab-ba-tu-u2 pour iṣbatū par exemple) », où la graphie syllabique correspond à l'inaccompli iṣabbatū."
+],
+"a_retenir": [
+"Interrogatifs : mannum (« qui ? »), mīnum (« quoi ? »), ammīnim (« pourquoi ? »), ayyûm (« lequel ? »).",
+"Démonstratifs : annûm / annītum (déclinaison d'adjectif), ainsi que šū, šī et šuāti."
+]
+}
+]
+}
+]
+}
+]
+}
